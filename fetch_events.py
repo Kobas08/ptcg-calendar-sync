@@ -602,12 +602,12 @@ def fetch(summary_only=False, auto=False, dry_run=False):
     # Missing / possibly cancelled
     if missing_events:
         print('### Possibly cancelled / removed events ###')
-        for guid, record in missing_events:
+        for i, (guid, record) in enumerate(missing_events, 1):
             snap = record.get('snapshot') or {}
             print('============')
-            print('[POSSIBLY REMOVED]')
+            print(f'[POSSIBLY REMOVED] ({i}/{len(missing_events)})')
             print(json.dumps(snap, indent=2))
-            if confirm('Remove from calendar and store? [Y/n]: ', auto, default_yes=True):
+            if confirm(f'Remove from calendar and store? ({i}/{len(missing_events)}) [Y/n]: ', auto, default_yes=True):
                 if not dry_run:
                     removed = delete_calendar_event(service, guid)
                     print(f'  -> calendar: {"deleted" if removed else "not found"}')
@@ -619,9 +619,9 @@ def fetch(summary_only=False, auto=False, dry_run=False):
     # New events
     if new_events:
         print('### New events ###')
-        for event in new_events:
+        for i, event in enumerate(new_events, 1):
             review(event, 'NEW')
-            if confirm('Add to calendar? [Y/n]: ', auto, default_yes=True):
+            if confirm(f'Add to calendar? ({i}/{len(new_events)}) [Y/n]: ', auto, default_yes=True):
                 if not dry_run:
                     result = upsert_calendar_event(service, event)
                     print(f'  -> calendar: {result}')
@@ -633,9 +633,9 @@ def fetch(summary_only=False, auto=False, dry_run=False):
     # Updated events
     if updated_events:
         print('### Updated events ###')
-        for event, prev in updated_events:
+        for i, (event, prev) in enumerate(updated_events, 1):
             review(event, 'UPDATED', prev_record=prev)
-            if confirm('Update on calendar? [Y/n]: ', auto, default_yes=True):
+            if confirm(f'Update on calendar? ({i}/{len(updated_events)}) [Y/n]: ', auto, default_yes=True):
                 if not dry_run:
                     result = upsert_calendar_event(service, event)
                     print(f'  -> calendar: {result}')
