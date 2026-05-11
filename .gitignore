@@ -1,0 +1,12 @@
+# Credentials
+google_api_credentials.json
+
+# Per-location config (contains secrets)
+*.env
+
+# Local event stores
+events_store*.json
+
+# Runtime
+venv/
+events.log
