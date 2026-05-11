@@ -158,7 +158,7 @@ DISCORD_WEBHOOK_URL = ''
 DEFAULT_DURATIONS = {
     'League Cup': 4,
     'League Challenge': 3,
-    'Pre Release': 3,
+    'Prerelease': 3,
 }
 FALLBACK_DURATION_HOURS = 3
 
@@ -166,7 +166,7 @@ FALLBACK_DURATION_HOURS = 3
 EVENT_COLOR_IDS = {
     'League Cup': '9',        # Blueberry
     'League Challenge': '7',  # Peacock
-    'Pre Release': '6',        # Tangerine
+    'Prerelease': '6',        # Tangerine
 }
 
 # Fields we care about for detecting "meaningful" changes to an event.
@@ -411,6 +411,7 @@ def to_gcal_event(event):
     shop_raw = event.get('shop') or 'Unknown Shop'
     shop = normalize_title_case(shop_raw)
     event_type = event.get('type') or 'Event'
+    event_type = event_type.replace('Pre Release', 'Prerelease')
     original_name = event.get('name') or ''
     cost = event.get('cost') or ''
     url = event.get('pokemon_url') or ''
