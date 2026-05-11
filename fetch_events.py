@@ -134,8 +134,8 @@ def resolve_timezone(lat, lng, fallback='America/New_York'):
 
 
 # --- Location / search config ---
-LAT = 35.879
-LONG = -78.787
+LAT = 0.0
+LONG = 0.0
 
 CUP_RADIUS = 140
 CHALLENGE_RADIUS = 90
@@ -145,7 +145,7 @@ PRERELEASE_RADIUS = 50
 STORE_PATH = Path(__file__).parent / 'events_store.json'
 
 # --- Google Calendar config ---
-CALENDAR_ID = '2eccad8749f4f3e9c97ba4b08663caf67210192d543d416323ab5fc8e2df3cd1@group.calendar.google.com'
+CALENDAR_ID = 'your_calendar_id@group.calendar.google.com'
 SERVICE_ACCOUNT_FILE = Path(__file__).parent / 'google_api_credentials.json'
 SCOPES = ['https://www.googleapis.com/auth/calendar']
 EVENT_TZ = 'America/New_York'  # overridden at startup from LAT/LONG
