@@ -508,15 +508,13 @@ def _event_line(event):
     return f'{date} — {shop} ({kind})'
 
 
-def notify_discord(new_events, updated_events, unchanged_events, missing_events):
+def notify_discord(added_events, updated_events, unchanged_count, removed_events):
     if not DISCORD_WEBHOOK_URL:
         return
 
-    total = len(new_events) + len(updated_events) + len(unchanged_events) + len(missing_events)
-
-    if missing_events:
-        color = 0xE67E22  # orange — possible cancellations need a look
-    elif new_events or updated_events:
+    if removed_events:
+        color = 0xE67E22  # orange — cancellations
+    elif added_events or updated_events:
         color = 0x3498DB  # blue — changes synced
     else:
         color = 0x2ECC71  # green — all quiet
@@ -524,7 +522,6 @@ def notify_discord(new_events, updated_events, unchanged_events, missing_events)
     now = datetime.datetime.now(datetime.timezone.utc)
     embed = discord.Embed(
         title=f'Pokemon TCG Events — {LOCATION_NAME}',
-        description=f'{total} events fetched from pokedata.ovh',
         color=color,
         timestamp=now,
     )
@@ -537,11 +534,11 @@ def notify_discord(new_events, updated_events, unchanged_events, missing_events)
             lines.append(f'…and {len(items) - 20} more')
         embed.add_field(name=f'{label} ({len(items)})', value='\n'.join(lines), inline=False)
 
-    _field('🆕 New', new_events, _event_line)
-    _field('🔄 Updated', [e for e, _ in updated_events], _event_line)
-    _field('❌ Missing', [rec.get('snapshot') or {} for _, rec in missing_events], _event_line)
+    _field('🆕 Added', added_events, _event_line)
+    _field('🔄 Updated', updated_events, _event_line)
+    _field('❌ Removed', removed_events, _event_line)
 
-    embed.add_field(name='✅ Unchanged', value=str(len(unchanged_events)), inline=True)
+    embed.add_field(name='✅ Unchanged', value=str(unchanged_count), inline=True)
     embed.set_footer(text='fetch_events.py')
 
     discord.SyncWebhook.from_url(DISCORD_WEBHOOK_URL).send(embed=embed)
@@ -599,6 +596,10 @@ def fetch(summary_only=False, auto=False, dry_run=False):
 
     service = None if dry_run else get_calendar_service()
 
+    actually_added = []
+    actually_updated = []
+    actually_removed = []
+
     # Missing / possibly cancelled
     if missing_events:
         print('### Possibly cancelled / removed events ###')
@@ -615,6 +616,7 @@ def fetch(summary_only=False, auto=False, dry_run=False):
                     print('  -> [dry-run] would delete')
                 store.pop(guid, None)
                 save_store(store)
+                actually_removed.append(snap)
 
     # New events
     if new_events:
@@ -629,6 +631,7 @@ def fetch(summary_only=False, auto=False, dry_run=False):
                     print('  -> [dry-run] would insert')
                 update_store_record(store, event, today_str)
                 save_store(store)
+                actually_added.append(event)
 
     # Updated events
     if updated_events:
@@ -643,6 +646,7 @@ def fetch(summary_only=False, auto=False, dry_run=False):
                     print('  -> [dry-run] would update')
                 update_store_record(store, event, today_str)
                 save_store(store)
+                actually_updated.append(event)
 
     # Refresh hash/snapshot for unchanged so the store stays current
     for event in unchanged_events:
@@ -653,7 +657,7 @@ def fetch(summary_only=False, auto=False, dry_run=False):
     save_store(store)
 
     if not dry_run:
-        notify_discord(new_events, updated_events, unchanged_events, missing_events)
+        notify_discord(actually_added, actually_updated, len(unchanged_events), actually_removed)
 
     print('Done.')
 
