@@ -4,6 +4,9 @@ google_api_credentials.json
 # Per-location config (contains secrets)
 *.env
 
+# Store → Discord role ID mapping
+store_roles.json
+
 # Local event stores
 events_store*.json
 
