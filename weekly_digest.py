@@ -37,17 +37,20 @@ from googleapiclient.errors import HttpError
 
 
 DEFAULT_CREDENTIALS = Path(__file__).parent / 'google_api_credentials.json'
-DEFAULT_STORE_ROLES = Path(__file__).parent / 'store_roles.json'
+DEFAULT_STORE_MENTIONS = Path(__file__).parent / 'store_mentions.json'
 
 
-def load_store_roles(path):
-    """Return {normalized_shop_name: role_id} from a JSON config, or {} if not found."""
+def load_store_mentions(path):
+    """
+    Return {normalized_shop_name: mention_string} from a JSON config, or {} if not found.
+    Values should be Discord mention strings: '<@&ROLE_ID>' for roles, '<#CHANNEL_ID>' for channels.
+    """
     p = Path(path)
     if not p.exists():
         return {}
     with p.open() as f:
         data = json.load(f)
-    return {k.lower(): str(v) for k, v in data.items()}
+    return {k.lower(): v for k, v in data.items()}
 
 
 def shop_from_summary(summary):
@@ -150,8 +153,8 @@ def event_time_str(gcal_event):
     return 'All day'
 
 
-def build_calendar_text(all_events, start_date, days, store_roles=None):
-    store_roles = store_roles or {}
+def build_calendar_text(all_events, start_date, days, store_mentions=None):
+    store_mentions = store_mentions or {}
     by_date = {start_date + datetime.timedelta(days=i): [] for i in range(days)}
 
     for location, event in all_events:
@@ -181,8 +184,8 @@ def build_calendar_text(all_events, start_date, days, store_roles=None):
                 summary = event.get('summary', 'Event')
                 shop = shop_from_summary(summary)
                 event_type = event_type_from_summary(summary)
-                role_id = store_roles.get(shop.lower())
-                shop_str = f'<@&{role_id}>' if role_id else shop
+                mention = store_mentions.get(shop.lower())
+                shop_str = mention if mention else shop
                 location_label = ', '.join(locations)
                 time = event_time_str(event)
                 suffix = f' @ {time}' if time != 'All day' else ''
@@ -243,8 +246,8 @@ def parse_args():
     )
     p.add_argument('--webhook-url', help='Discord webhook URL (overrides env DISCORD_WEBHOOK_URL)')
     p.add_argument('--days', type=int, default=7, help='Days to look ahead (default: 7)')
-    p.add_argument('--store-roles', default=str(DEFAULT_STORE_ROLES),
-                   help='JSON file mapping shop names to Discord role IDs (default: store_roles.json)')
+    p.add_argument('--store-mentions', default=str(DEFAULT_STORE_MENTIONS),
+                   help='JSON file mapping shop names to Discord mention strings (default: store_mentions.json)')
     p.add_argument('--dry-run', action='store_true', help='Print the calendar without sending to Discord')
     return p.parse_args()
 
@@ -286,11 +289,11 @@ if __name__ == '__main__':
         except Exception as e:
             print(f'  Error: {e}')
 
-    store_roles = load_store_roles(args.store_roles)
-    if store_roles:
-        print(f'Loaded {len(store_roles)} store role(s) from {args.store_roles}')
+    store_mentions = load_store_mentions(args.store_mentions)
+    if store_mentions:
+        print(f'Loaded {len(store_mentions)} store mention(s) from {args.store_mentions}')
 
-    lines = build_calendar_text(all_events, today, args.days, store_roles=store_roles)
+    lines = build_calendar_text(all_events, today, args.days, store_mentions=store_mentions)
 
     if not webhook_url and not args.dry_run:
         print('No Discord webhook URL found. Pass --webhook-url or set DISCORD_WEBHOOK_URL in an .env file.')
