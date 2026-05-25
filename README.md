@@ -91,6 +91,69 @@ python fetch_events.py --env-file raleigh.env --dry-run
 python fetch_events.py --env-file raleigh.env --auto
 ```
 
+## Weekly digest
+
+`weekly_digest.py` reads upcoming events from one or more Google Calendars and posts a combined text calendar to Discord. It is intended to run once a week, independently of `run.sh`.
+
+```bash
+./weekly_digest.sh
+
+# Preview without sending
+./weekly_digest.sh --dry-run
+
+# Look ahead two weeks
+./weekly_digest.sh --days 14
+```
+
+### How it works
+
+- Reads events from every configured calendar for the next 7 days (configurable)
+- Events appearing in multiple calendars are deduplicated and shown once with all source locations listed
+- Multi-day all-day events (e.g. regionals spanning a full weekend) appear on every day they cover
+- Each event line prefixes the location label and links the store's Discord role or channel if configured
+
+Example output:
+
+```
+📅 Pokemon TCG — May 25 to May 31
+
+**Saturday, May 25**
+• [RDU, Charlotte] <@&role> - Regional Championship
+
+**Sunday, May 26**
+• [RDU, Charlotte] <@&role> - Regional Championship
+
+**Wednesday, May 29**
+• [RDU] <#channel> - League Challenge @ 7:00 PM
+```
+
+### Store mentions
+
+Create `store_mentions.json` (see `store_mentions.json.example`) to map shop names to Discord roles or channels:
+
+```json
+{
+  "My Local Game Shop": "<@&123456789012345678>",
+  "Online Store": "<#987654321098765432>"
+}
+```
+
+Use `<@&ROLE_ID>` for a role ping, `<#CHANNEL_ID>` for a channel link. Shops without an entry fall back to displaying the shop name as plain text. The file is gitignored.
+
+### Adding a location to the digest
+
+Add the new `.env` file to the `--env-files` list in `weekly_digest.sh`. The webhook URL is read from the first `.env` file that defines `DISCORD_WEBHOOK_URL`.
+
+### Weekly digest configuration
+
+| Arg | Description |
+|---|---|
+| `--env-files` | One or more `.env` files to read (space-separated) |
+| `--days` | Number of days to look ahead (default: 7) |
+| `--store-mentions` | Path to store mentions JSON (default: `store_mentions.json`) |
+| `--webhook-url` | Discord webhook URL (overrides `DISCORD_WEBHOOK_URL` in env) |
+| `--dry-run` | Print the calendar without sending to Discord |
+
 ## Tips
 
 - On first run against a new calendar every event will appear as NEW — run interactively once to seed the store, then switch to `--auto` for cron
