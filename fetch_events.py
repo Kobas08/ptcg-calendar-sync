@@ -539,6 +539,15 @@ def notify_discord(added_events, updated_events, unchanged_count, removed_events
     _field('❌ Removed', removed_events, _event_line)
 
     embed.add_field(name='✅ Unchanged', value=str(unchanged_count), inline=True)
+
+    radius_lines = (
+        f'Cups: {CUP_RADIUS} mi\n'
+        f'Challenges: {CHALLENGE_RADIUS} mi\n'
+        f'Prereleases: {PRERELEASE_RADIUS} mi'
+    )
+    embed.add_field(name='📍 Search Center', value=f'{LAT}, {LONG}', inline=True)
+    embed.add_field(name='🔭 Radii', value=radius_lines, inline=True)
+
     embed.set_footer(text='fetch_events.py')
 
     discord.SyncWebhook.from_url(DISCORD_WEBHOOK_URL).send(embed=embed)
