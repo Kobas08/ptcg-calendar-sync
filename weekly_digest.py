@@ -245,6 +245,7 @@ def parse_args():
         help='One or more .env files to read (default: .env)',
     )
     p.add_argument('--webhook-url', help='Discord webhook URL (overrides env DISCORD_WEBHOOK_URL)')
+    p.add_argument('--credentials', help='Path to Google API service account JSON (overrides GOOGLE_API_CREDENTIALS in env files)')
     p.add_argument('--days', type=int, default=7, help='Days to look ahead (default: 7)')
     p.add_argument('--store-mentions', default=str(DEFAULT_STORE_MENTIONS),
                    help='JSON file mapping shop names to Discord mention strings (default: store_mentions.json)')
@@ -267,7 +268,7 @@ if __name__ == '__main__':
 
         calendar_id = cfg.get('CALENDAR_ID', '')
         location = cfg.get('LOCATION_NAME', Path(env_file).stem)
-        credentials_path = Path(cfg.get('GOOGLE_API_CREDENTIALS', str(DEFAULT_CREDENTIALS)))
+        credentials_path = Path(args.credentials or cfg.get('GOOGLE_API_CREDENTIALS', str(DEFAULT_CREDENTIALS)))
 
         if not webhook_url:
             webhook_url = cfg.get('DISCORD_WEBHOOK_URL', '')

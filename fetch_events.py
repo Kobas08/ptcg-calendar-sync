@@ -715,6 +715,8 @@ if __name__ == '__main__':
         STORE_PATH = Path(args.store)
     elif 'STORE_PATH' in os.environ:
         STORE_PATH = Path(os.environ['STORE_PATH'])
+    elif args.env_file:
+        STORE_PATH = Path(args.env_file).parent / 'events_store.json'
 
     if args.cup_radius is not None:
         CUP_RADIUS = args.cup_radius
