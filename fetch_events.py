@@ -680,6 +680,7 @@ def parse_args():
     p.add_argument('--long', type=float, help='Longitude of search center (overrides LONG env / default)')
     p.add_argument('--calendar-id', dest='calendar_id', help='Google Calendar ID (overrides CALENDAR_ID env / default)')
     p.add_argument('--store', help='Path to local events store JSON (overrides STORE_PATH env / default)')
+    p.add_argument('--store-dir', dest='store_dir', help='Directory for store JSON; filename is auto-derived from --env-file (overrides default location next to env file)')
     p.add_argument('--cup-radius', dest='cup_radius', type=int, help='Search radius for League Cups in miles (overrides CUP_RADIUS env / default)')
     p.add_argument('--challenge-radius', dest='challenge_radius', type=int, help='Search radius for League Challenges in miles (overrides CHALLENGE_RADIUS env / default)')
     p.add_argument('--prerelease-radius', dest='prerelease_radius', type=int, help='Search radius for Pre Releases in miles (overrides PRERELEASE_RADIUS env / default)')
@@ -717,7 +718,8 @@ if __name__ == '__main__':
         STORE_PATH = Path(os.environ['STORE_PATH'])
     elif args.env_file:
         stem = Path(args.env_file).stem
-        STORE_PATH = Path(args.env_file).parent / f'events_store_{stem}.json'
+        store_dir = Path(args.store_dir) if args.store_dir else Path(args.env_file).parent
+        STORE_PATH = store_dir / f'events_store_{stem}.json'
 
     if args.cup_radius is not None:
         CUP_RADIUS = args.cup_radius
