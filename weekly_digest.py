@@ -26,6 +26,7 @@ Look ahead two weeks:
 
 import argparse
 import datetime
+import html
 import json
 import os
 from pathlib import Path
@@ -181,7 +182,7 @@ def build_calendar_text(all_events, start_date, days, store_mentions=None):
         day_events = sorted(by_date[d], key=lambda x: event_start_dt(x[1]) or _epoch)
         if day_events:
             for locations, event in dedup_events(day_events):
-                summary = event.get('summary', 'Event')
+                summary = html.unescape(event.get('summary', 'Event'))
                 shop = shop_from_summary(summary)
                 event_type = event_type_from_summary(summary)
                 mention = store_mentions.get(shop.lower())
@@ -189,7 +190,8 @@ def build_calendar_text(all_events, start_date, days, store_mentions=None):
                 location_label = ', '.join(locations)
                 time = event_time_str(event)
                 suffix = f' @ {time}' if time != 'All day' else ''
-                lines.append(f'• [{location_label}] {shop_str} - {event_type}{suffix}')
+                label = f'{shop_str} - {event_type}' if event_type else shop_str
+                lines.append(f'• [{location_label}] {label}{suffix}')
         else:
             lines.append('*(no events)*')
         lines.append('')

@@ -4,7 +4,7 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 echo "Creating virtual environment..."
-python3 -m venv "$SCRIPT_DIR/venv"
+virtualenv -p python3.11 "$SCRIPT_DIR/venv"
 
 echo "Installing requirements..."
 "$SCRIPT_DIR/venv/bin/pip" install -r "$SCRIPT_DIR/requirements.txt"

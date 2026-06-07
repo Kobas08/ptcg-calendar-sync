@@ -2,7 +2,7 @@
 set -e
 
 # Path to the cloned ptcg-calendar-sync repo
-CODE_DIR="/path/to/ptcg-calendar-sync"
+CODE_DIR="${CODE_DIR:?CODE_DIR is not set}"
 
 # This script lives in the configs repo alongside the .env files
 CONF_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
