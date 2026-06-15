@@ -183,14 +183,11 @@ def build_calendar_text(all_events, start_date, days, store_mentions=None):
         if day_events:
             for locations, event in dedup_events(day_events):
                 summary = html.unescape(event.get('summary', 'Event'))
-                shop = shop_from_summary(summary)
-                event_type = event_type_from_summary(summary)
-                mention = store_mentions.get(shop.lower())
-                shop_str = mention if mention else shop
+                segments = [s.strip() for s in summary.split(' - ')]
+                label = ' - '.join(store_mentions.get(s.lower(), s) for s in segments)
                 location_label = ', '.join(locations)
                 time = event_time_str(event)
                 suffix = f' @ {time}' if time != 'All day' else ''
-                label = f'{shop_str} - {event_type}' if event_type else shop_str
                 lines.append(f'• [{location_label}] {label}{suffix}')
         else:
             lines.append('*(no events)*')

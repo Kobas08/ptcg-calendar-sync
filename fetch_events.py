@@ -636,10 +636,10 @@ def fetch(summary_only=False, auto=False, dry_run=False):
                 if not dry_run:
                     result = upsert_calendar_event(service, event)
                     print(f'  -> calendar: {result}')
+                    update_store_record(store, event, today_str)
+                    save_store(store)
                 else:
                     print('  -> [dry-run] would insert')
-                update_store_record(store, event, today_str)
-                save_store(store)
                 actually_added.append(event)
 
     # Updated events
@@ -651,10 +651,10 @@ def fetch(summary_only=False, auto=False, dry_run=False):
                 if not dry_run:
                     result = upsert_calendar_event(service, event)
                     print(f'  -> calendar: {result}')
+                    update_store_record(store, event, today_str)
+                    save_store(store)
                 else:
                     print('  -> [dry-run] would update')
-                update_store_record(store, event, today_str)
-                save_store(store)
                 actually_updated.append(event)
 
     # Refresh hash/snapshot for unchanged so the store stays current
