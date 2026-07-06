@@ -29,6 +29,7 @@ import datetime
 import html
 import json
 import os
+import re
 from pathlib import Path
 
 import discord
@@ -196,20 +197,35 @@ def build_calendar_text(all_events, start_date, days, store_mentions=None):
     return lines
 
 
-def chunk_lines(header, lines, limit=2000):
+ROLE_MENTION_RE = re.compile(r'<@&\d+>')
+
+
+def count_pings(text):
+    """Number of role mentions (the ones that actually ping) in a string."""
+    return len(ROLE_MENTION_RE.findall(text))
+
+
+def chunk_lines(header, lines, limit=2000, ping_limit=10):
     """
-    Yield message strings, each within `limit` chars.
-    The header is prepended only to the first chunk.
-    Splits at blank lines (day boundaries) where possible.
+    Yield message strings, each within `limit` chars and at most `ping_limit`
+    role mentions. Discord silently drops pings past ~10 per message, so we
+    split on that too. The header is prepended only to the first chunk.
+    Splits at line boundaries where possible.
     """
     current = header
+    current_pings = count_pings(header)
     for line in lines:
+        line_pings = count_pings(line)
         candidate = current + '\n' + line if current else line
-        if len(candidate) > limit:
+        too_long = len(candidate) > limit
+        too_many_pings = current_pings + line_pings > ping_limit
+        if current and (too_long or too_many_pings):
             yield current
             current = line
+            current_pings = line_pings
         else:
             current = candidate
+            current_pings += line_pings
     if current:
         yield current
 
