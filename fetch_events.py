@@ -329,7 +329,6 @@ def classify_events(events, store):
     seen_guids = set()
 
     for event in events:
-        upsert_calendar_event(service, event)
         guid = event.get('guid')
         if not guid:
             guid = hashlib.sha1(
