@@ -428,8 +428,6 @@ def to_gcal_event(event):
         description_lines.append(f'Listed as: {original_name}')
     description_lines.append(f'Shop: {shop}')
     description_lines.append(f'Type: {event_type}')
-    description_lines.append(f'Cost: {cost}')
-    description_lines.append(f'Duration: {duration} hours (estimated)')
     if url:
         description_lines.append(f'Pokemon.com: {url}')
     if details:
