@@ -164,9 +164,9 @@ FALLBACK_DURATION_HOURS = 3
 
 # Color IDs for Google Calendar events (named colors map to numeric IDs).
 EVENT_COLOR_IDS = {
-    'League Cup': '9',        # Blueberry
-    'League Challenge': '7',  # Peacock
-    'Prerelease': '6',        # Tangerine
+    'League Cup': '11',        # Czerwony
+    'League Challenge': '7',  # Niebieski
+    'Prerelease': '10',        # Zielony
 }
 
 # Fields we care about for detecting "meaningful" changes to an event.
