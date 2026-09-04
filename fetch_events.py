@@ -779,4 +779,9 @@ if __name__ == '__main__':
 
     EVENT_TZ = resolve_timezone(LAT, LONG)
 
-       fetch(summary_only=args.summary, auto=args.auto, dry_run=args.dry_run, refresh_calendar=args.refresh_calendar)
+    fetch(
+        summary_only=args.summary,
+        auto=args.auto,
+        dry_run=args.dry_run,
+        refresh_calendar=args.refresh_calendar
+    )
