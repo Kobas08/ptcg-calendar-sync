@@ -413,7 +413,6 @@ def to_gcal_event(event):
     event_type = event.get('type') or 'Event'
     event_type = event_type.replace('Pre Release', 'Prerelease')
     original_name = event.get('name') or ''
-    cost = event.get('cost') or ''
     url = event.get('pokemon_url') or ''
     details = ''
     contact = event.get('contact_data')
@@ -568,7 +567,7 @@ def confirm(prompt, auto, default_yes=True):
     return ans in ('y', 'yes')
 
 
-def fetch(summary_only=False, auto=False, dry_run=False):
+def fetch(summary_only=False, auto=False, dry_run=False, refresh_calendar=False):
     store = load_store()
     today_str = datetime.date.today().isoformat()
 
@@ -603,7 +602,34 @@ def fetch(summary_only=False, auto=False, dry_run=False):
         return
 
     service = None if dry_run else get_calendar_service()
+    # One-time full calendar refresh.
+    # Rebuilds all currently fetched calendar events using the current
+    # description format, without creating duplicates.
+    if refresh_calendar:
+        print('### FULL CALENDAR REFRESH ###')
+        print(f'Refreshing {len(events)} event(s)...')
 
+        if dry_run:
+            for event in events:
+                print(
+                    f'  -> [dry-run] would refresh: '
+                    f'{event.get("when")}  {event.get("name")}  @ {event.get("shop")}'
+                )
+        else:
+            for i, event in enumerate(events, 1):
+                result = upsert_calendar_event(service, event)
+                print(
+                    f'  [{i}/{len(events)}] '
+                    f'{event.get("when")}  {event.get("name")}  '
+                    f'@ {event.get("shop")} -> calendar: {result}'
+                )
+                update_store_record(store, event, today_str)
+
+            save_store(store)
+
+        print('Full calendar refresh complete.')
+        return
+      
     actually_added = []
     actually_updated = []
     actually_removed = []
@@ -675,6 +701,7 @@ def parse_args():
     p.add_argument('--summary', action='store_true', help='Print summary only, no calendar changes')
     p.add_argument('--auto', action='store_true', help='Skip confirmation prompts')
     p.add_argument('--dry-run', action='store_true', help='Do everything except call Google Calendar API')
+    p.add_argument('--refresh-calendar', action='store_true', help='Force refresh of all currently fetched calendar events')
     p.add_argument('--lat', type=float, help='Latitude of search center (overrides LAT env / default)')
     p.add_argument('--long', type=float, help='Longitude of search center (overrides LONG env / default)')
     p.add_argument('--calendar-id', dest='calendar_id', help='Google Calendar ID (overrides CALENDAR_ID env / default)')
@@ -752,4 +779,4 @@ if __name__ == '__main__':
 
     EVENT_TZ = resolve_timezone(LAT, LONG)
 
-    fetch(summary_only=args.summary, auto=args.auto, dry_run=args.dry_run)
+       fetch(summary_only=args.summary, auto=args.auto, dry_run=args.dry_run, refresh_calendar=args.refresh_calendar)
