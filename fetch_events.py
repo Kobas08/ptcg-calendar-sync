@@ -156,9 +156,9 @@ DISCORD_WEBHOOK_URL = ''
 
 # Default durations (hours) by event type, keyed off the API's `type` field.
 DEFAULT_DURATIONS = {
-    'League Cup': 4,
-    'League Challenge': 3,
-    'Prerelease': 3,
+    'League Cup': 6,
+    'League Challenge': 4,
+    'Prerelease': 5,
 }
 FALLBACK_DURATION_HOURS = 3
 
@@ -425,9 +425,10 @@ def to_gcal_event(event):
 
     description_lines = []
     if original_name:
-        description_lines.append(f'Listed as: {original_name}')
-    description_lines.append(f'Shop: {shop}')
-    description_lines.append(f'Type: {event_type}')
+        description_lines.append(f'Nazwa: {original_name}')
+    description_lines.append(f'Sklep: {shop}')
+    description_lines.append(f'Typ wydarzenia: {event_type}')
+    description_lines.append(f'Czas trwania: {duration} godz. (szacunkowo)')
     if url:
         description_lines.append(f'Pokemon.com: {url}')
     if details:
