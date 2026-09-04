@@ -1,0 +1,467 @@
+{
+  "0c97bcf2-885e-4475-92d1-39b5063f7d32": {
+    "first_seen": "2026-09-04",
+    "hash": "f9986edd22b14d85cea0892a497cdcdff26895ef97f41ba2a2599d0c0e637d97",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "30",
+      "date": "2026-10-23",
+      "name": "Pa\u017adziernikowy Challenge w \u015awiecie Kart",
+      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
+      "status": "",
+      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
+      "time": "17:00:00",
+      "when": "2026-10-23 17:00:00"
+    }
+  },
+  "0d862863-196e-45e1-8ec0-03ba73574127": {
+    "first_seen": "2026-09-04",
+    "hash": "27c1a4e6ca3c8050db7a7c755e04b92a509e280fb504dfa9adc5c53f0b250f48",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "30",
+      "date": "2026-09-11",
+      "name": "TCG League Challenge - Wrzesie\u0144 - CardzHouse",
+      "shop": "CARDZHOUSE",
+      "status": "",
+      "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
+      "time": "18:00:00",
+      "when": "2026-09-11 18:00:00"
+    }
+  },
+  "0f9e81b3-24e4-4ba5-bb4f-ae44e4f3dc6d": {
+    "first_seen": "2026-09-04",
+    "hash": "7c751f596f1f621fc105478185856ca1f943158032279532be2564a5eb5cd657",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "45,00 PLN",
+      "date": "2026-09-12",
+      "name": "SideQuest League Challenge September '26",
+      "shop": "SIDEQUEST",
+      "status": "",
+      "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
+      "time": "12:00:00",
+      "when": "2026-09-12 12:00:00"
+    }
+  },
+  "16f15f4c-db61-4e67-8ca3-3ea6953ac9f1": {
+    "first_seen": "2026-09-04",
+    "hash": "70d3072d6ba0e661c4d7fe3a76a6360ccc31a1f8c9fa8eda0423909883524691",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "30",
+      "date": "2026-11-12",
+      "name": "TCG League Challenge - Listopad - CardzHouse",
+      "shop": "CARDZHOUSE",
+      "status": "",
+      "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
+      "time": "18:00:00",
+      "when": "2026-11-12 18:00:00"
+    }
+  },
+  "173febac-5e4f-4ca7-8be3-8aa2df7b48ef": {
+    "first_seen": "2026-09-04",
+    "hash": "6f32c4f57970c865836b8005ae355a90d5cd61fc6f2665d6ff01efafdfba5367",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "Free",
+      "date": "2026-10-03",
+      "name": "Pa\u017adziernikowy Pok\u00e9mon League Challenge W Basta Center Shop",
+      "shop": "BASTA CENTER SHOP",
+      "status": "",
+      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
+      "time": "11:30:00",
+      "when": "2026-10-03 11:30:00"
+    }
+  },
+  "293445fc-80f5-45c4-8312-b5a292cf4665": {
+    "first_seen": "2026-09-04",
+    "hash": "d497fd0735f2b3bd94d05a74b9ef064ffdf1a3f58a1417d506dad863bf2e633c",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-09-15",
+      "name": "Pierwszy Challenge w pika space (wrzesie\u0144, sezon 2027)",
+      "shop": "PIKA SPACE",
+      "status": "",
+      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
+      "time": "17:30:00",
+      "when": "2026-09-15 17:30:00"
+    }
+  },
+  "3689c752-7055-4220-91bf-d3bb83f00b6f": {
+    "first_seen": "2026-09-04",
+    "hash": "59050c59da19cf9ca3f749807e8d89a9735f2b62aedf18bc5491407d00cde884",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-10-17",
+      "name": "Hej Mistrzu TCG League Challenge October",
+      "shop": "HEJ MISTRZU",
+      "status": "",
+      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
+      "time": "11:00:00",
+      "when": "2026-10-17 11:00:00"
+    }
+  },
+  "4ef479fc-080f-43e6-ba53-cb6292ee8c29": {
+    "first_seen": "2026-09-04",
+    "hash": "a6e8f6edd2d1a9cebaefbf309d2e3db57fa19b6f192f934d063787d773ca8da9",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "Free",
+      "date": "2026-10-10",
+      "name": "Pok\u00e9mon League Cup W Basta Center Shop 10.10.2026",
+      "shop": "BASTA CENTER SHOP",
+      "status": "",
+      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
+      "time": "09:29:00",
+      "when": "2026-10-10 09:29:00"
+    }
+  },
+  "59be493b-703b-4585-9698-8b212a7e3473": {
+    "first_seen": "2026-09-04",
+    "hash": "974267414d8882fdcfa31a018469b72d108ecba066e6c459813cd63e32e79cf9",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-09-26",
+      "name": "Hej Mistrzu! TCG League Challenge September",
+      "shop": "HEJ MISTRZU",
+      "status": "",
+      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
+      "time": "11:00:00",
+      "when": "2026-09-26 11:00:00"
+    }
+  },
+  "6ce68c8b-b0aa-48c3-b56a-30319500562c": {
+    "first_seen": "2026-09-04",
+    "hash": "25e6faef04273c03748360bf850e653c24c63d09630124d9ccb6acb80e226cda",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "45,00 PLN",
+      "date": "2026-11-07",
+      "name": "SideQuest League Challenge November '26",
+      "shop": "SIDEQUEST",
+      "status": "",
+      "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
+      "time": "12:00:00",
+      "when": "2026-11-07 12:00:00"
+    }
+  },
+  "744374a1-35c5-4f07-b9e6-cc05d15551c5": {
+    "first_seen": "2026-09-04",
+    "hash": "323407deb1a15e216e573481ed72e4562cb2be0810d612d0f0213e2c34b57a5a",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-11-07",
+      "name": "Hej Mistrzu! TCG League Challenge November",
+      "shop": "HEJ MISTRZU",
+      "status": "",
+      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
+      "time": "11:00:00",
+      "when": "2026-11-07 11:00:00"
+    }
+  },
+  "7cde2f76-0fa7-4be2-97c8-378223584ed2": {
+    "first_seen": "2026-09-04",
+    "hash": "9c724572cff2e23cc5769d7acf1065694e222ea6c02a0d7ad33af921332df9db",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "30",
+      "date": "2026-09-25",
+      "name": "Wrze\u015bniowy Challenge w \u015awiecie Kart",
+      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
+      "status": "",
+      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
+      "time": "17:00:00",
+      "when": "2026-09-25 17:00:00"
+    }
+  },
+  "7ed33164-7ff3-4fe4-b44a-7dada69ed184": {
+    "first_seen": "2026-09-04",
+    "hash": "3bb07689ad4df211007d3f7e2dbaff50c0ef78803de40381c1293d82dd6bc0c0",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "30",
+      "date": "2026-09-19",
+      "name": "Pokemon Challange w Maginarium!",
+      "shop": "MAGINARIUM",
+      "status": "",
+      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
+      "time": "00:00:00",
+      "when": "2026-09-19 00:00:00"
+    }
+  },
+  "82684638-c81d-46cb-8118-67a6a3ea9087": {
+    "first_seen": "2026-09-04",
+    "hash": "84de0abdd930f890c5466346bb0dd942fe523aec25097e35322d470b4e7ae083",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-11-21",
+      "name": "Hej MIstrzu! TCG League Cup Round 1",
+      "shop": "HEJ MISTRZU",
+      "status": "",
+      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
+      "time": "09:30:00",
+      "when": "2026-11-21 09:30:00"
+    }
+  },
+  "86d27fae-1f2c-4f30-8e9e-43957183da3a": {
+    "first_seen": "2026-09-04",
+    "hash": "fc21a7f544e88ac1524c02b50a3f3e096de81cc20ae52b0aaeab07c669c3663a",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-11-10",
+      "name": "Challenge w pika space (listopad, sezon 2027)",
+      "shop": "PIKA SPACE",
+      "status": "",
+      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
+      "time": "17:30:00",
+      "when": "2026-11-10 17:30:00"
+    }
+  },
+  "8eb1a78d-0461-4466-92e2-632ba50ec72a": {
+    "first_seen": "2026-09-04",
+    "hash": "f823a5f6b76f80cd2e564745a35238f4cb34e513d5724a87e8c8e326a5f62894",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-11-03",
+      "name": "Pokemon TCG League Challenge w ALEplansz\u00f3wki Metropolia",
+      "shop": "ALEPLANSZ\u00d3WKI METROPOLIA",
+      "status": "",
+      "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, WOJEW\u00d3DZTWO POMORSKIE 80-452, PL",
+      "time": "17:00:00",
+      "when": "2026-11-03 17:00:00"
+    }
+  },
+  "8eeaadc1-a4ed-4b69-88f7-2186bbb552d5": {
+    "first_seen": "2026-09-04",
+    "hash": "b1cfd342cd55edc2708534f59d0c6da887efc2076efae1e5e82588e43bd0d3c0",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "35 z\u0142",
+      "date": "2026-10-01",
+      "name": "Krolm Pokemon League Challenge 1-10-2026",
+      "shop": "KROLM",
+      "status": "",
+      "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
+      "time": "17:30:00",
+      "when": "2026-10-01 17:30:00"
+    }
+  },
+  "91763412-514a-4edc-9629-0f73ee9b9780": {
+    "first_seen": "2026-09-04",
+    "hash": "ee5f4d8ba98a528602d810a272bd2a350382a4b4663b2e512bbd508949e7ecb7",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-10-16",
+      "name": "\u015awiat Kart League Cup",
+      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
+      "status": "",
+      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
+      "time": "17:00:00",
+      "when": "2026-10-16 17:00:00"
+    }
+  },
+  "a2976c5e-870a-4797-83b4-6f197cf3cd4b": {
+    "first_seen": "2026-09-04",
+    "hash": "d9858f7c00d10429d6312fc500a4b543136d46a577b70e2b9733ce084379a2a6",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-11-22",
+      "name": "Kwartalny Cup Listopad",
+      "shop": "MANGI U SMOCZEJ CIOTKI",
+      "status": "",
+      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
+      "time": "12:00:00",
+      "when": "2026-11-22 12:00:00"
+    }
+  },
+  "ab2f6bf7-1899-4280-b9b6-ce1634175c3f": {
+    "first_seen": "2026-09-04",
+    "hash": "0155e312b724d1ca32652bc8174115190abcbdfb3b0e70f2d547497a6dc80894",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-09-20",
+      "name": "Wrze\u015bniowy Challenge",
+      "shop": "MANGI U SMOCZEJ CIOTKI",
+      "status": "",
+      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
+      "time": "12:00:00",
+      "when": "2026-09-20 12:00:00"
+    }
+  },
+  "c3e44b0c-48ab-411b-9ca1-ba9f850a9759": {
+    "first_seen": "2026-09-04",
+    "hash": "c4d248948752d9cc9a07f9af937c6c194bc741fec941891242f337eae19387b4",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-10-05",
+      "name": "Pokemon TCG League Challenge w Aleplansz\u00f3wki Metropolia",
+      "shop": "ALEPLANSZ\u00d3WKI METROPOLIA",
+      "status": "",
+      "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, WOJEW\u00d3DZTWO POMORSKIE 80-452, PL",
+      "time": "17:00:00",
+      "when": "2026-10-05 17:00:00"
+    }
+  },
+  "c44164a6-ce3c-4b2a-bdd0-42235c8e93ad": {
+    "first_seen": "2026-09-04",
+    "hash": "ab47693fab5855c733fce085002fa4793c541172ee7d70a9b4b3a8ec17abc327",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-10-13",
+      "name": "Challenge w pika space (pa\u017adziernik, sezon 2027)",
+      "shop": "PIKA SPACE",
+      "status": "",
+      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
+      "time": "17:30:00",
+      "when": "2026-10-13 17:30:00"
+    }
+  },
+  "caeb3ea6-109c-4890-95c0-0859fc982a2a": {
+    "first_seen": "2026-09-04",
+    "hash": "44cabdcdb6af148cbd1f8d92b7c5467d0844b9db1f70d710f0a9e5979d2f82f7",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "Free",
+      "date": "2026-09-12",
+      "name": "Wrze\u015bniowy Pok\u00e9mon League Challenge W Basta Center Shop 12.0",
+      "shop": "BASTA CENTER SHOP",
+      "status": "",
+      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
+      "time": "11:30:00",
+      "when": "2026-09-12 11:30:00"
+    }
+  },
+  "d00c39e2-8c39-4cc2-b4fa-d0fec88e6c7b": {
+    "first_seen": "2026-09-04",
+    "hash": "1792b92f8b271f65ad154a1cdac3ddc2ee081a589d1b6b89e329a8f798b8d9d7",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-10-18",
+      "name": "Pa\u017adziernikowy Challenge",
+      "shop": "MANGI U SMOCZEJ CIOTKI",
+      "status": "",
+      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
+      "time": "12:00:00",
+      "when": "2026-10-18 12:00:00"
+    }
+  },
+  "da7c99b6-0221-4c55-938e-50b46668760c": {
+    "first_seen": "2026-09-04",
+    "hash": "9210bc28c160498c55c9f15924939ce543c2593322074c222c195773e18d3574",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "45,00 PLN",
+      "date": "2026-10-10",
+      "name": "SideQuest League Challenge October '26",
+      "shop": "SIDEQUEST",
+      "status": "",
+      "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
+      "time": "12:00:00",
+      "when": "2026-10-10 12:00:00"
+    }
+  },
+  "e7ab1dc2-6609-4c09-893d-dbabaf6c4bb9": {
+    "first_seen": "2026-09-04",
+    "hash": "11ad022d0d11747b0a71ea7171c2f1baa293601bc11acdd7de7df6d86eda10c4",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "40",
+      "date": "2026-09-16",
+      "name": "League Challenge w Boosterland 1Q4",
+      "shop": "BOOSTERLAND",
+      "status": "",
+      "street_address": "GDY\u0143SKA 1A/POK\u00d3J 3, 83-330 \u017bUKOWO, POLAND",
+      "time": "18:00:00",
+      "when": "2026-09-16 18:00:00"
+    }
+  },
+  "ee7958da-a5ab-46bb-b7c6-409978f4a7e9": {
+    "first_seen": "2026-09-04",
+    "hash": "7797b2e11bc2ed11d5bc6c2c2f7904b3c265a2d06ade92ad85a12ea81e42161f",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "60,00 PLN",
+      "date": "2026-10-03",
+      "name": "SideQuest League Cup Round 1",
+      "shop": "SIDEQUEST",
+      "status": "",
+      "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
+      "time": "12:00:00",
+      "when": "2026-10-03 12:00:00"
+    }
+  },
+  "f72f8b00-1744-49aa-a737-d3a0f2d805dd": {
+    "first_seen": "2026-09-04",
+    "hash": "ed09322c4c24e0e152b00e76043d848ec2e5369367a664cde21be81e286cf7cc",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "30",
+      "date": "2026-10-08",
+      "name": "TCG League Challenge - Pa\u017adziernik - CardzHouse",
+      "shop": "CARDZHOUSE",
+      "status": "",
+      "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
+      "time": "18:00:00",
+      "when": "2026-10-08 18:00:00"
+    }
+  },
+  "fbced8cc-56cc-4055-8dad-d970ec8586a1": {
+    "first_seen": "2026-09-04",
+    "hash": "d7b233caeb9069d0c2e3f25ecc2e84de54e61f2690b2d5185238e6a6c760b9d3",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-11-15",
+      "name": "Listopadowy Challenge",
+      "shop": "MANGI U SMOCZEJ CIOTKI",
+      "status": "",
+      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
+      "time": "12:00:00",
+      "when": "2026-11-15 12:00:00"
+    }
+  },
+  "fbfb590d-4863-49b6-b218-0224c2fc9305": {
+    "first_seen": "2026-09-04",
+    "hash": "3ce7700b632183690eacb2db4e43057d5900ed49a8412d8d1c9ab43b11a0b624",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "Free",
+      "date": "2026-11-11",
+      "name": "Listopadowy Pok\u00e9mon League Challenge W Basta Center Shop 11.",
+      "shop": "BASTA CENTER SHOP",
+      "status": "",
+      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
+      "time": "11:30:00",
+      "when": "2026-11-11 11:30:00"
+    }
+  },
+  "ffd741ec-74a4-47c0-bd8a-b3a63d0e492e": {
+    "first_seen": "2026-09-04",
+    "hash": "1900b3ba8e427c9c22247558e5f9ee91144b99f8c07b513afdc4159a00a612ba",
+    "last_updated": "2026-09-04",
+    "snapshot": {
+      "cost": "30",
+      "date": "2026-11-20",
+      "name": "Listopadowy Challenge w \u015awiecie Kart",
+      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
+      "status": "",
+      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
+      "time": "17:00:00",
+      "when": "2026-11-20 17:00:00"
+    }
+  }
+}
