@@ -9,6 +9,7 @@ store_mentions.json
 
 # Local event stores
 events_store*.json
+!events_store_sopot.json
 
 # Runtime
 venv/
