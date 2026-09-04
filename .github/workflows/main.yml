@@ -18,7 +18,7 @@ jobs:
       CALENDAR_ID: ${{ secrets.CALENDAR_ID }}
       STORE_PATH: "events_store_sopot.json"
 
-      # 50 km ≈ 31 miles
+      # 25 miles
       CUP_RADIUS: "25"
       CHALLENGE_RADIUS: "25"
       PRERELEASE_RADIUS: "25"
