@@ -50,8 +50,7 @@ jobs:
           python fetch_events.py \
             --credentials google_api_credentials.json \
             --store events_store_sopot.json \
-            --auto \
-             --refresh-calendar
+            --auto 
 
       - name: Save synchronization state
         run: |
