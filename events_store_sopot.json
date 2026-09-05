@@ -194,6 +194,21 @@
       "when": "2026-09-19 00:00:00"
     }
   },
+  "813c2286-254d-47e0-a4bb-45a053699f39": {
+    "first_seen": "2026-09-05",
+    "hash": "d5a958c951c722939794ae861573c4c86433e3f1c57b4a656ca3a580908eb2dc",
+    "last_updated": "2026-09-05",
+    "snapshot": {
+      "cost": "40 z\u0142",
+      "date": "2026-10-04",
+      "name": "Krolm Pokemon Cup 4-10-2026",
+      "shop": "KROLM",
+      "status": "",
+      "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
+      "time": "10:30:00",
+      "when": "2026-10-04 10:30:00"
+    }
+  },
   "82684638-c81d-46cb-8118-67a6a3ea9087": {
     "first_seen": "2026-09-04",
     "hash": "84de0abdd930f890c5466346bb0dd942fe523aec25097e35322d470b4e7ae083",
@@ -301,17 +316,17 @@
   },
   "c3e44b0c-48ab-411b-9ca1-ba9f850a9759": {
     "first_seen": "2026-09-04",
-    "hash": "c4d248948752d9cc9a07f9af937c6c194bc741fec941891242f337eae19387b4",
-    "last_updated": "2026-09-04",
+    "hash": "4d5458d233684d2339c31ee8d913dcfeaf68d2d76d5adec61de1bfab380f49a8",
+    "last_updated": "2026-09-05",
     "snapshot": {
       "cost": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "name": "Pokemon TCG League Challenge w Aleplansz\u00f3wki Metropolia",
       "shop": "ALEPLANSZ\u00d3WKI METROPOLIA",
       "status": "",
       "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, WOJEW\u00d3DZTWO POMORSKIE 80-452, PL",
       "time": "17:00:00",
-      "when": "2026-10-05 17:00:00"
+      "when": "2026-10-06 17:00:00"
     }
   },
   "c44164a6-ce3c-4b2a-bdd0-42235c8e93ad": {
