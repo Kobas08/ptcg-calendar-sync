@@ -14,6 +14,21 @@
       "when": "2026-10-23 17:00:00"
     }
   },
+  "0d53d882-4d9b-46bc-bb8d-97a33540ac3d": {
+    "first_seen": "2026-09-08",
+    "hash": "e463495e3a38fa8fa5ecb82fd18c7c8eb96e29886b78815fdd2023fc4eb8989d",
+    "last_updated": "2026-09-08",
+    "snapshot": {
+      "cost": "40",
+      "date": "2026-09-28",
+      "name": "Kel TCG Challenge",
+      "shop": "KINGUIN ESPORTS LOUNGE",
+      "status": "",
+      "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, POMORSKIE 80-266, PL",
+      "time": "17:30:00",
+      "when": "2026-09-28 17:30:00"
+    }
+  },
   "0d862863-196e-45e1-8ec0-03ba73574127": {
     "first_seen": "2026-09-04",
     "hash": "27c1a4e6ca3c8050db7a7c755e04b92a509e280fb504dfa9adc5c53f0b250f48",
@@ -342,6 +357,21 @@
       "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
       "time": "17:30:00",
       "when": "2026-10-13 17:30:00"
+    }
+  },
+  "c9717d9e-4ac0-48b8-8a84-8d70f81e380b": {
+    "first_seen": "2026-09-08",
+    "hash": "4f65274d44eafecf4de6886bea600ef6d6a17fd3862615058e6a621aacb13906",
+    "last_updated": "2026-09-08",
+    "snapshot": {
+      "cost": "40",
+      "date": "2026-09-30",
+      "name": "Ku\u017ania TCG Challenge",
+      "shop": "KUZNIA KART",
+      "status": "",
+      "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
+      "time": "17:30:00",
+      "when": "2026-09-30 17:30:00"
     }
   },
   "caeb3ea6-109c-4890-95c0-0859fc982a2a": {
