@@ -29,21 +29,6 @@
       "when": "2026-09-28 17:30:00"
     }
   },
-  "0d862863-196e-45e1-8ec0-03ba73574127": {
-    "first_seen": "2026-09-04",
-    "hash": "27c1a4e6ca3c8050db7a7c755e04b92a509e280fb504dfa9adc5c53f0b250f48",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "30",
-      "date": "2026-09-11",
-      "name": "TCG League Challenge - Wrzesie\u0144 - CardzHouse",
-      "shop": "CARDZHOUSE",
-      "status": "",
-      "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
-      "time": "18:00:00",
-      "when": "2026-09-11 18:00:00"
-    }
-  },
   "0f9e81b3-24e4-4ba5-bb4f-ae44e4f3dc6d": {
     "first_seen": "2026-09-04",
     "hash": "7c751f596f1f621fc105478185856ca1f943158032279532be2564a5eb5cd657",
