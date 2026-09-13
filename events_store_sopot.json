@@ -29,21 +29,6 @@
       "when": "2026-09-28 17:30:00"
     }
   },
-  "0f9e81b3-24e4-4ba5-bb4f-ae44e4f3dc6d": {
-    "first_seen": "2026-09-04",
-    "hash": "7c751f596f1f621fc105478185856ca1f943158032279532be2564a5eb5cd657",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "45,00 PLN",
-      "date": "2026-09-12",
-      "name": "SideQuest League Challenge September '26",
-      "shop": "SIDEQUEST",
-      "status": "",
-      "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
-      "time": "12:00:00",
-      "when": "2026-09-12 12:00:00"
-    }
-  },
   "16f15f4c-db61-4e67-8ca3-3ea6953ac9f1": {
     "first_seen": "2026-09-04",
     "hash": "70d3072d6ba0e661c4d7fe3a76a6360ccc31a1f8c9fa8eda0423909883524691",
@@ -357,21 +342,6 @@
       "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
       "time": "17:30:00",
       "when": "2026-09-30 17:30:00"
-    }
-  },
-  "caeb3ea6-109c-4890-95c0-0859fc982a2a": {
-    "first_seen": "2026-09-04",
-    "hash": "44cabdcdb6af148cbd1f8d92b7c5467d0844b9db1f70d710f0a9e5979d2f82f7",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "Free",
-      "date": "2026-09-12",
-      "name": "Wrze\u015bniowy Pok\u00e9mon League Challenge W Basta Center Shop 12.0",
-      "shop": "BASTA CENTER SHOP",
-      "status": "",
-      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
-      "time": "11:30:00",
-      "when": "2026-09-12 11:30:00"
     }
   },
   "d00c39e2-8c39-4cc2-b4fa-d0fec88e6c7b": {
