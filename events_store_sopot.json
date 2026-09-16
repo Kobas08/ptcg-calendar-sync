@@ -59,21 +59,6 @@
       "when": "2026-10-03 11:30:00"
     }
   },
-  "293445fc-80f5-45c4-8312-b5a292cf4665": {
-    "first_seen": "2026-09-04",
-    "hash": "d497fd0735f2b3bd94d05a74b9ef064ffdf1a3f58a1417d506dad863bf2e633c",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-09-15",
-      "name": "Pierwszy Challenge w pika space (wrzesie\u0144, sezon 2027)",
-      "shop": "PIKA SPACE",
-      "status": "",
-      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
-      "time": "17:30:00",
-      "when": "2026-09-15 17:30:00"
-    }
-  },
   "3689c752-7055-4220-91bf-d3bb83f00b6f": {
     "first_seen": "2026-09-04",
     "hash": "59050c59da19cf9ca3f749807e8d89a9735f2b62aedf18bc5491407d00cde884",
@@ -102,6 +87,21 @@
       "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
       "time": "09:29:00",
       "when": "2026-10-10 09:29:00"
+    }
+  },
+  "539e698a-acfb-4690-b10b-ce13a675f576": {
+    "first_seen": "2026-09-16",
+    "hash": "eaecd48be51307103ecebc69dbfd9a44fab4224d110ad14d368fd7c184a696e1",
+    "last_updated": "2026-09-16",
+    "snapshot": {
+      "cost": "25",
+      "date": "2026-11-25",
+      "name": "Kuznia Challenge",
+      "shop": "KUZNIA KART",
+      "status": "",
+      "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
+      "time": "17:30:00",
+      "when": "2026-11-25 17:30:00"
     }
   },
   "59be493b-703b-4585-9698-8b212a7e3473": {
@@ -402,6 +402,21 @@
       "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
       "time": "12:00:00",
       "when": "2026-10-03 12:00:00"
+    }
+  },
+  "f2a517fb-ac9a-4650-afd4-b883d0f605bb": {
+    "first_seen": "2026-09-16",
+    "hash": "e6dd4f8a79210da5632a8fad6ee8591d990aa049f979db4f4f484f159afebdc0",
+    "last_updated": "2026-09-16",
+    "snapshot": {
+      "cost": "25",
+      "date": "2026-10-28",
+      "name": "Kuznia Challenge",
+      "shop": "KUZNIA KART",
+      "status": "",
+      "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
+      "time": "17:30:00",
+      "when": "2026-10-28 17:30:00"
     }
   },
   "f72f8b00-1744-49aa-a737-d3a0f2d805dd": {
