@@ -374,21 +374,6 @@
       "when": "2026-10-10 12:00:00"
     }
   },
-  "e7ab1dc2-6609-4c09-893d-dbabaf6c4bb9": {
-    "first_seen": "2026-09-04",
-    "hash": "11ad022d0d11747b0a71ea7171c2f1baa293601bc11acdd7de7df6d86eda10c4",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "40",
-      "date": "2026-09-16",
-      "name": "League Challenge w Boosterland 1Q4",
-      "shop": "BOOSTERLAND",
-      "status": "",
-      "street_address": "GDY\u0143SKA 1A/POK\u00d3J 3, 83-330 \u017bUKOWO, POLAND",
-      "time": "18:00:00",
-      "when": "2026-09-16 18:00:00"
-    }
-  },
   "ee7958da-a5ab-46bb-b7c6-409978f4a7e9": {
     "first_seen": "2026-09-04",
     "hash": "7797b2e11bc2ed11d5bc6c2c2f7904b3c265a2d06ade92ad85a12ea81e42161f",
