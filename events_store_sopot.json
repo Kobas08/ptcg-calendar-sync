@@ -164,21 +164,6 @@
       "when": "2026-09-25 17:00:00"
     }
   },
-  "7ed33164-7ff3-4fe4-b44a-7dada69ed184": {
-    "first_seen": "2026-09-04",
-    "hash": "3bb07689ad4df211007d3f7e2dbaff50c0ef78803de40381c1293d82dd6bc0c0",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "30",
-      "date": "2026-09-19",
-      "name": "Pokemon Challange w Maginarium!",
-      "shop": "MAGINARIUM",
-      "status": "",
-      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
-      "time": "00:00:00",
-      "when": "2026-09-19 00:00:00"
-    }
-  },
   "813c2286-254d-47e0-a4bb-45a053699f39": {
     "first_seen": "2026-09-05",
     "hash": "d5a958c951c722939794ae861573c4c86433e3f1c57b4a656ca3a580908eb2dc",
