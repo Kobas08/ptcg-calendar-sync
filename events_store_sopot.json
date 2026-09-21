@@ -269,21 +269,6 @@
       "when": "2026-11-22 12:00:00"
     }
   },
-  "ab2f6bf7-1899-4280-b9b6-ce1634175c3f": {
-    "first_seen": "2026-09-04",
-    "hash": "0155e312b724d1ca32652bc8174115190abcbdfb3b0e70f2d547497a6dc80894",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-09-20",
-      "name": "Wrze\u015bniowy Challenge",
-      "shop": "MANGI U SMOCZEJ CIOTKI",
-      "status": "",
-      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
-      "time": "12:00:00",
-      "when": "2026-09-20 12:00:00"
-    }
-  },
   "c3e44b0c-48ab-411b-9ca1-ba9f850a9759": {
     "first_seen": "2026-09-04",
     "hash": "4d5458d233684d2339c31ee8d913dcfeaf68d2d76d5adec61de1bfab380f49a8",
