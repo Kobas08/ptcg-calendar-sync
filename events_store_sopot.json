@@ -269,6 +269,21 @@
       "when": "2026-11-22 12:00:00"
     }
   },
+  "af938439-175b-4c6c-98e3-9fb1dfb029af": {
+    "first_seen": "2026-09-25",
+    "hash": "4aa7f6f8576a10c0a7c089da5f54d737985bcfbd1eabd4ea46e9a1a149739aeb",
+    "last_updated": "2026-09-25",
+    "snapshot": {
+      "cost": "10",
+      "date": "2026-10-01",
+      "name": "Casualowy turniej w Maginarium!",
+      "shop": "MAGINARIUM",
+      "status": "",
+      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
+      "time": "17:30:00",
+      "when": "2026-10-01 17:30:00"
+    }
+  },
   "c3e44b0c-48ab-411b-9ca1-ba9f850a9759": {
     "first_seen": "2026-09-04",
     "hash": "4d5458d233684d2339c31ee8d913dcfeaf68d2d76d5adec61de1bfab380f49a8",
