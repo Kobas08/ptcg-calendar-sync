@@ -59,6 +59,21 @@
       "when": "2026-10-03 11:30:00"
     }
   },
+  "36338b69-63a3-43b7-97d5-d4a59cefe124": {
+    "first_seen": "2026-09-27",
+    "hash": "d1dbdfe9676e72fe4aebbcd3f146ce746eb026c00049511b2e1ba23c6c256af0",
+    "last_updated": "2026-09-27",
+    "snapshot": {
+      "cost": "130",
+      "date": "2026-10-24",
+      "name": "Delta Reign Nocny Basta Center Shop",
+      "shop": "BASTA CENTER SHOP",
+      "status": "",
+      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
+      "time": "00:00:00",
+      "when": "2026-10-24 00:00:00"
+    }
+  },
   "3689c752-7055-4220-91bf-d3bb83f00b6f": {
     "first_seen": "2026-09-04",
     "hash": "59050c59da19cf9ca3f749807e8d89a9735f2b62aedf18bc5491407d00cde884",
@@ -104,19 +119,19 @@
       "when": "2026-11-25 17:30:00"
     }
   },
-  "59be493b-703b-4585-9698-8b212a7e3473": {
-    "first_seen": "2026-09-04",
-    "hash": "974267414d8882fdcfa31a018469b72d108ecba066e6c459813cd63e32e79cf9",
-    "last_updated": "2026-09-04",
+  "6c612501-7ab7-4822-aa60-00c9ce8b693b": {
+    "first_seen": "2026-09-27",
+    "hash": "42216dd52e2a9f864fcdbacfc014653c15ea3290eddd36c5b3c1701ec20d9844",
+    "last_updated": "2026-09-27",
     "snapshot": {
-      "cost": "",
-      "date": "2026-09-26",
-      "name": "Hej Mistrzu! TCG League Challenge September",
-      "shop": "HEJ MISTRZU",
+      "cost": "130",
+      "date": "2026-10-25",
+      "name": "Delta Reign Prerelease 25.10.2026",
+      "shop": "BASTA CENTER SHOP",
       "status": "",
-      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
-      "time": "11:00:00",
-      "when": "2026-09-26 11:00:00"
+      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
+      "time": "13:00:00",
+      "when": "2026-10-25 13:00:00"
     }
   },
   "6ce68c8b-b0aa-48c3-b56a-30319500562c": {
@@ -267,6 +282,21 @@
       "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
       "time": "17:30:00",
       "when": "2026-10-01 17:30:00"
+    }
+  },
+  "b1956101-51d5-4716-aa6b-01852c90fbce": {
+    "first_seen": "2026-09-27",
+    "hash": "00a785ba238fedd561d7614811692dfed207af80c07d7846244f0429a0cb8623",
+    "last_updated": "2026-09-27",
+    "snapshot": {
+      "cost": "130",
+      "date": "2026-10-24",
+      "name": "Delta Reign Prerelease 24.10.2026",
+      "shop": "BASTA CENTER SHOP",
+      "status": "",
+      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
+      "time": "14:00:00",
+      "when": "2026-10-24 14:00:00"
     }
   },
   "c3e44b0c-48ab-411b-9ca1-ba9f850a9759": {
