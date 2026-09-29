@@ -14,21 +14,6 @@
       "when": "2026-10-23 17:00:00"
     }
   },
-  "0d53d882-4d9b-46bc-bb8d-97a33540ac3d": {
-    "first_seen": "2026-09-08",
-    "hash": "e463495e3a38fa8fa5ecb82fd18c7c8eb96e29886b78815fdd2023fc4eb8989d",
-    "last_updated": "2026-09-08",
-    "snapshot": {
-      "cost": "40",
-      "date": "2026-09-28",
-      "name": "Kel TCG Challenge",
-      "shop": "KINGUIN ESPORTS LOUNGE",
-      "status": "",
-      "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, POMORSKIE 80-266, PL",
-      "time": "17:30:00",
-      "when": "2026-09-28 17:30:00"
-    }
-  },
   "16f15f4c-db61-4e67-8ca3-3ea6953ac9f1": {
     "first_seen": "2026-09-04",
     "hash": "70d3072d6ba0e661c4d7fe3a76a6360ccc31a1f8c9fa8eda0423909883524691",
@@ -59,6 +44,21 @@
       "when": "2026-10-03 11:30:00"
     }
   },
+  "1bf3f00f-b3e2-47cb-b941-c8f696a9da83": {
+    "first_seen": "2026-09-29",
+    "hash": "29eb894b734d284df92ecfb32c7e4cf987e84a00930f1a897e6562bebf6138d7",
+    "last_updated": "2026-09-29",
+    "snapshot": {
+      "cost": "130",
+      "date": "2026-10-30",
+      "name": "Delta Reign prerelease",
+      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
+      "status": "",
+      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
+      "time": "17:00:00",
+      "when": "2026-10-30 17:00:00"
+    }
+  },
   "36338b69-63a3-43b7-97d5-d4a59cefe124": {
     "first_seen": "2026-09-27",
     "hash": "d1dbdfe9676e72fe4aebbcd3f146ce746eb026c00049511b2e1ba23c6c256af0",
@@ -87,6 +87,21 @@
       "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
       "time": "11:00:00",
       "when": "2026-10-17 11:00:00"
+    }
+  },
+  "45a2a01e-6739-41ec-9e6a-41a5d982e870": {
+    "first_seen": "2026-09-29",
+    "hash": "bb31f5c97db21e7d397e396659e0b7528b487338d0688f6f9a3ff7bb34cfe542",
+    "last_updated": "2026-09-29",
+    "snapshot": {
+      "cost": "130",
+      "date": "2026-10-26",
+      "name": "Delta Reign prerelease",
+      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
+      "status": "",
+      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
+      "time": "17:00:00",
+      "when": "2026-10-26 17:00:00"
     }
   },
   "4ef479fc-080f-43e6-ba53-cb6292ee8c29": {
@@ -239,19 +254,34 @@
       "when": "2026-10-01 17:30:00"
     }
   },
+  "8f8762b0-f2ce-4c48-afc0-1678b6970e5e": {
+    "first_seen": "2026-09-29",
+    "hash": "9f2c7c7662e54de3dba6b3f33487e67910cfd50fce5b68b5fe618081b05fb644",
+    "last_updated": "2026-09-29",
+    "snapshot": {
+      "cost": "40",
+      "date": "2026-10-14",
+      "name": "League Challenge w Boosterland 2Q4",
+      "shop": "BOOSTERLAND",
+      "status": "",
+      "street_address": "GDY\u0143SKA 1A/POK\u00d3J 3, 83-330 \u017bUKOWO, POLAND",
+      "time": "18:00:00",
+      "when": "2026-10-14 18:00:00"
+    }
+  },
   "91763412-514a-4edc-9629-0f73ee9b9780": {
     "first_seen": "2026-09-04",
-    "hash": "ee5f4d8ba98a528602d810a272bd2a350382a4b4663b2e512bbd508949e7ecb7",
-    "last_updated": "2026-09-04",
+    "hash": "0de9e9f43bd7819c6b5f07f761555c124099208d3a0d22a7a93c9cb7c9889f30",
+    "last_updated": "2026-09-29",
     "snapshot": {
       "cost": "",
-      "date": "2026-10-16",
+      "date": "2026-10-11",
       "name": "\u015awiat Kart League Cup",
       "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
       "status": "",
       "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
-      "time": "17:00:00",
-      "when": "2026-10-16 17:00:00"
+      "time": "10:30:00",
+      "when": "2026-10-11 10:30:00"
     }
   },
   "a2976c5e-870a-4797-83b4-6f197cf3cd4b": {
@@ -372,6 +402,36 @@
       "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
       "time": "12:00:00",
       "when": "2026-10-10 12:00:00"
+    }
+  },
+  "ea73a62e-4253-4cc7-88b6-5f401bd998d5": {
+    "first_seen": "2026-09-29",
+    "hash": "9d0284dabfa12128b5c8d9e5b102b49ea80b1e0a724d7c0e3f16dd613fddaaaa",
+    "last_updated": "2026-09-29",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-10-27",
+      "name": "Prerelease Delta Reign w PIKA SPACE",
+      "shop": "PIKA SPACE",
+      "status": "",
+      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
+      "time": "17:30:00",
+      "when": "2026-10-27 17:30:00"
+    }
+  },
+  "ed061b87-37b7-49c6-8686-1629aaeee0b7": {
+    "first_seen": "2026-09-29",
+    "hash": "f3af7ce0308ca28ccec2fe2d1a9572ba2ba7962cc9e49f19f69bdf08a150660f",
+    "last_updated": "2026-09-29",
+    "snapshot": {
+      "cost": "120",
+      "date": "2026-10-28",
+      "name": "Delta Reign pre-release w Boosterland",
+      "shop": "BOOSTERLAND",
+      "status": "",
+      "street_address": "GDY\u0143SKA 1A/POK\u00d3J 3, 83-330 \u017bUKOWO, POLAND",
+      "time": "18:00:00",
+      "when": "2026-10-28 18:00:00"
     }
   },
   "ee7958da-a5ab-46bb-b7c6-409978f4a7e9": {
