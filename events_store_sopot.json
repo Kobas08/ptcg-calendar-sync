@@ -59,6 +59,21 @@
       "when": "2026-10-30 17:00:00"
     }
   },
+  "2dc8181d-b166-470c-bab1-b0909d73ee99": {
+    "first_seen": "2026-09-30",
+    "hash": "f3722fa31f4c080e38868f33a7d70b9bec68c1725c2defedac68869b304926ac",
+    "last_updated": "2026-09-30",
+    "snapshot": {
+      "cost": "35 z\u0142",
+      "date": "2026-11-05",
+      "name": "Krolm Pokemon League Challenge 5-11-2026",
+      "shop": "KROLM",
+      "status": "",
+      "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
+      "time": "17:30:00",
+      "when": "2026-11-05 17:30:00"
+    }
+  },
   "36338b69-63a3-43b7-97d5-d4a59cefe124": {
     "first_seen": "2026-09-27",
     "hash": "d1dbdfe9676e72fe4aebbcd3f146ce746eb026c00049511b2e1ba23c6c256af0",
@@ -179,6 +194,36 @@
       "when": "2026-11-07 11:00:00"
     }
   },
+  "7ae5a698-0620-423b-a7d6-9aa708bae3a4": {
+    "first_seen": "2026-09-30",
+    "hash": "7565c0e2197bb53262f6574b040a047b65faeec42a534905830d28cf9b698439",
+    "last_updated": "2026-09-30",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-10-27",
+      "name": "Turniej Przedpremierowy - ME Delta Reign 1",
+      "shop": "MANGI U SMOCZEJ CIOTKI",
+      "status": "",
+      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
+      "time": "17:00:00",
+      "when": "2026-10-27 17:00:00"
+    }
+  },
+  "8015be25-008b-4043-8b36-303cfdc183d9": {
+    "first_seen": "2026-09-30",
+    "hash": "9422a0cf7ae8c180447a5f61705702ed7d7703fe709ca3480756436bc00f04fd",
+    "last_updated": "2026-09-30",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-10-29",
+      "name": "Turniej Przedpremierowy - ME Delta Reign 2",
+      "shop": "MANGI U SMOCZEJ CIOTKI",
+      "status": "",
+      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
+      "time": "17:00:00",
+      "when": "2026-10-29 17:00:00"
+    }
+  },
   "813c2286-254d-47e0-a4bb-45a053699f39": {
     "first_seen": "2026-09-05",
     "hash": "d5a958c951c722939794ae861573c4c86433e3f1c57b4a656ca3a580908eb2dc",
@@ -207,6 +252,21 @@
       "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
       "time": "09:30:00",
       "when": "2026-11-21 09:30:00"
+    }
+  },
+  "82bfb6b2-67b2-400f-a5e3-fcda953d1c83": {
+    "first_seen": "2026-09-30",
+    "hash": "73b22b52200fd7e8e4ee9d4c4ca28c72ebc6367bf074521241d8c0e27164d268",
+    "last_updated": "2026-09-30",
+    "snapshot": {
+      "cost": "125 z\u0142",
+      "date": "2026-10-29",
+      "name": "KROLM Delta Reign Prerelease",
+      "shop": "KROLM",
+      "status": "",
+      "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
+      "time": "17:30:00",
+      "when": "2026-10-29 17:30:00"
     }
   },
   "86d27fae-1f2c-4f30-8e9e-43957183da3a": {
