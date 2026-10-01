@@ -344,6 +344,21 @@
       "when": "2026-10-11 10:30:00"
     }
   },
+  "95cef843-59cb-46d2-a46d-dac05fc9fd5b": {
+    "first_seen": "2026-10-01",
+    "hash": "1732a8c98e714f1d967d5ea5fb03f116d0c95b9049a3bc83c8def83c13c53638",
+    "last_updated": "2026-10-01",
+    "snapshot": {
+      "cost": "20",
+      "date": "2026-10-15",
+      "name": "Pokemon Challange w Maginarium!",
+      "shop": "MAGINARIUM",
+      "status": "",
+      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
+      "time": "16:00:00",
+      "when": "2026-10-15 16:00:00"
+    }
+  },
   "a2976c5e-870a-4797-83b4-6f197cf3cd4b": {
     "first_seen": "2026-09-04",
     "hash": "d9858f7c00d10429d6312fc500a4b543136d46a577b70e2b9733ce084379a2a6",
@@ -389,6 +404,21 @@
       "when": "2026-10-24 14:00:00"
     }
   },
+  "b2ec7b0b-6a8c-4fef-9021-aea50f9675aa": {
+    "first_seen": "2026-10-01",
+    "hash": "4168f4af9bf3b62a20e9c5e8fd2b13b366ea9e0e349432651a7e8d9b564d0bb2",
+    "last_updated": "2026-10-01",
+    "snapshot": {
+      "cost": "120",
+      "date": "2026-10-28",
+      "name": "Kuznia PRE",
+      "shop": "KUZNIA KART",
+      "status": "",
+      "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
+      "time": "17:30:00",
+      "when": "2026-10-28 17:30:00"
+    }
+  },
   "c3e44b0c-48ab-411b-9ca1-ba9f850a9759": {
     "first_seen": "2026-09-04",
     "hash": "4d5458d233684d2339c31ee8d913dcfeaf68d2d76d5adec61de1bfab380f49a8",
@@ -417,21 +447,6 @@
       "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
       "time": "17:30:00",
       "when": "2026-10-13 17:30:00"
-    }
-  },
-  "c9717d9e-4ac0-48b8-8a84-8d70f81e380b": {
-    "first_seen": "2026-09-08",
-    "hash": "4f65274d44eafecf4de6886bea600ef6d6a17fd3862615058e6a621aacb13906",
-    "last_updated": "2026-09-08",
-    "snapshot": {
-      "cost": "40",
-      "date": "2026-09-30",
-      "name": "Ku\u017ania TCG Challenge",
-      "shop": "KUZNIA KART",
-      "status": "",
-      "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
-      "time": "17:30:00",
-      "when": "2026-09-30 17:30:00"
     }
   },
   "d00c39e2-8c39-4cc2-b4fa-d0fec88e6c7b": {
