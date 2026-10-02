@@ -16,17 +16,17 @@
   },
   "16f15f4c-db61-4e67-8ca3-3ea6953ac9f1": {
     "first_seen": "2026-09-04",
-    "hash": "70d3072d6ba0e661c4d7fe3a76a6360ccc31a1f8c9fa8eda0423909883524691",
-    "last_updated": "2026-09-04",
+    "hash": "9b35ff366f3d8a4fab083dc5e7b900190b67f0310c0cd384a1e8c46f825b6a4f",
+    "last_updated": "2026-10-02",
     "snapshot": {
       "cost": "30",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "name": "TCG League Challenge - Listopad - CardzHouse",
       "shop": "CARDZHOUSE",
       "status": "",
       "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
       "time": "18:00:00",
-      "when": "2026-11-12 18:00:00"
+      "when": "2026-11-13 18:00:00"
     }
   },
   "173febac-5e4f-4ca7-8be3-8aa2df7b48ef": {
@@ -299,21 +299,6 @@
       "when": "2026-11-03 17:00:00"
     }
   },
-  "8eeaadc1-a4ed-4b69-88f7-2186bbb552d5": {
-    "first_seen": "2026-09-04",
-    "hash": "b1cfd342cd55edc2708534f59d0c6da887efc2076efae1e5e82588e43bd0d3c0",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "35 z\u0142",
-      "date": "2026-10-01",
-      "name": "Krolm Pokemon League Challenge 1-10-2026",
-      "shop": "KROLM",
-      "status": "",
-      "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
-      "time": "17:30:00",
-      "when": "2026-10-01 17:30:00"
-    }
-  },
   "8f8762b0-f2ce-4c48-afc0-1678b6970e5e": {
     "first_seen": "2026-09-29",
     "hash": "9f2c7c7662e54de3dba6b3f33487e67910cfd50fce5b68b5fe618081b05fb644",
@@ -359,6 +344,21 @@
       "when": "2026-10-15 16:00:00"
     }
   },
+  "95d642b5-8b11-4520-8574-85fa509f4200": {
+    "first_seen": "2026-10-02",
+    "hash": "e7f301d1e2b6081e3c229356ba14dd46dc03e9747ef7938d38a0ab334f87f4a8",
+    "last_updated": "2026-10-02",
+    "snapshot": {
+      "cost": "140",
+      "date": "2026-10-29",
+      "name": "Prerelease Delta Reign w Maginarium",
+      "shop": "MAGINARIUM",
+      "status": "",
+      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
+      "time": "17:30:00",
+      "when": "2026-10-29 17:30:00"
+    }
+  },
   "a2976c5e-870a-4797-83b4-6f197cf3cd4b": {
     "first_seen": "2026-09-04",
     "hash": "d9858f7c00d10429d6312fc500a4b543136d46a577b70e2b9733ce084379a2a6",
@@ -372,21 +372,6 @@
       "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
       "time": "12:00:00",
       "when": "2026-11-22 12:00:00"
-    }
-  },
-  "af938439-175b-4c6c-98e3-9fb1dfb029af": {
-    "first_seen": "2026-09-25",
-    "hash": "4aa7f6f8576a10c0a7c089da5f54d737985bcfbd1eabd4ea46e9a1a149739aeb",
-    "last_updated": "2026-09-25",
-    "snapshot": {
-      "cost": "10",
-      "date": "2026-10-01",
-      "name": "Casualowy turniej w Maginarium!",
-      "shop": "MAGINARIUM",
-      "status": "",
-      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
-      "time": "17:30:00",
-      "when": "2026-10-01 17:30:00"
     }
   },
   "b1956101-51d5-4716-aa6b-01852c90fbce": {
@@ -526,32 +511,32 @@
   },
   "f2a517fb-ac9a-4650-afd4-b883d0f605bb": {
     "first_seen": "2026-09-16",
-    "hash": "e6dd4f8a79210da5632a8fad6ee8591d990aa049f979db4f4f484f159afebdc0",
-    "last_updated": "2026-09-16",
+    "hash": "238b9a02c353a8c749d1f861070984e4db917c04259132899449529277a169be",
+    "last_updated": "2026-10-02",
     "snapshot": {
       "cost": "25",
-      "date": "2026-10-28",
+      "date": "2026-10-30",
       "name": "Kuznia Challenge",
       "shop": "KUZNIA KART",
       "status": "",
       "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
       "time": "17:30:00",
-      "when": "2026-10-28 17:30:00"
+      "when": "2026-10-30 17:30:00"
     }
   },
   "f72f8b00-1744-49aa-a737-d3a0f2d805dd": {
     "first_seen": "2026-09-04",
-    "hash": "ed09322c4c24e0e152b00e76043d848ec2e5369367a664cde21be81e286cf7cc",
-    "last_updated": "2026-09-04",
+    "hash": "4114fb04b04c743f7e590e9302d606c871e3b81f77968f422fa57b507eecda5c",
+    "last_updated": "2026-10-02",
     "snapshot": {
       "cost": "30",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "name": "TCG League Challenge - Pa\u017adziernik - CardzHouse",
       "shop": "CARDZHOUSE",
       "status": "",
       "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
       "time": "18:00:00",
-      "when": "2026-10-08 18:00:00"
+      "when": "2026-10-09 18:00:00"
     }
   },
   "fbced8cc-56cc-4055-8dad-d970ec8586a1": {
