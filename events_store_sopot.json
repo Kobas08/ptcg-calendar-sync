@@ -29,21 +29,6 @@
       "when": "2026-11-13 18:00:00"
     }
   },
-  "173febac-5e4f-4ca7-8be3-8aa2df7b48ef": {
-    "first_seen": "2026-09-04",
-    "hash": "6f32c4f57970c865836b8005ae355a90d5cd61fc6f2665d6ff01efafdfba5367",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "Free",
-      "date": "2026-10-03",
-      "name": "Pa\u017adziernikowy Pok\u00e9mon League Challenge W Basta Center Shop",
-      "shop": "BASTA CENTER SHOP",
-      "status": "",
-      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
-      "time": "11:30:00",
-      "when": "2026-10-03 11:30:00"
-    }
-  },
   "1bf3f00f-b3e2-47cb-b941-c8f696a9da83": {
     "first_seen": "2026-09-29",
     "hash": "29eb894b734d284df92ecfb32c7e4cf987e84a00930f1a897e6562bebf6138d7",
@@ -507,21 +492,6 @@
       "street_address": "GDY\u0143SKA 1A/POK\u00d3J 3, 83-330 \u017bUKOWO, POLAND",
       "time": "18:00:00",
       "when": "2026-10-28 18:00:00"
-    }
-  },
-  "ee7958da-a5ab-46bb-b7c6-409978f4a7e9": {
-    "first_seen": "2026-09-04",
-    "hash": "7797b2e11bc2ed11d5bc6c2c2f7904b3c265a2d06ade92ad85a12ea81e42161f",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "60,00 PLN",
-      "date": "2026-10-03",
-      "name": "SideQuest League Cup Round 1",
-      "shop": "SIDEQUEST",
-      "status": "",
-      "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
-      "time": "12:00:00",
-      "when": "2026-10-03 12:00:00"
     }
   },
   "f2a517fb-ac9a-4650-afd4-b883d0f605bb": {
