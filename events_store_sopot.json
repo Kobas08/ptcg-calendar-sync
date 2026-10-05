@@ -224,21 +224,6 @@
       "when": "2026-10-29 17:00:00"
     }
   },
-  "813c2286-254d-47e0-a4bb-45a053699f39": {
-    "first_seen": "2026-09-05",
-    "hash": "d5a958c951c722939794ae861573c4c86433e3f1c57b4a656ca3a580908eb2dc",
-    "last_updated": "2026-09-05",
-    "snapshot": {
-      "cost": "40 z\u0142",
-      "date": "2026-10-04",
-      "name": "Krolm Pokemon Cup 4-10-2026",
-      "shop": "KROLM",
-      "status": "",
-      "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
-      "time": "10:30:00",
-      "when": "2026-10-04 10:30:00"
-    }
-  },
   "82684638-c81d-46cb-8118-67a6a3ea9087": {
     "first_seen": "2026-09-04",
     "hash": "84de0abdd930f890c5466346bb0dd942fe523aec25097e35322d470b4e7ae083",
