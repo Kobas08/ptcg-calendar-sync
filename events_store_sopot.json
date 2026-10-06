@@ -59,6 +59,21 @@
       "when": "2026-11-05 17:30:00"
     }
   },
+  "33b7edb6-1a87-4f6f-81ee-097a3d6b8d00": {
+    "first_seen": "2026-10-06",
+    "hash": "ce4d68a0de211df763a34e961723858f923073503b327a9dd39c39e6165aaffd",
+    "last_updated": "2026-10-06",
+    "snapshot": {
+      "cost": "125,00 PLN",
+      "date": "2026-10-24",
+      "name": "Delta Reign Prerelease",
+      "shop": "SIDEQUEST",
+      "status": "",
+      "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
+      "time": "12:00:00",
+      "when": "2026-10-24 12:00:00"
+    }
+  },
   "35bf6ac1-ba01-4ebe-ac63-2c085bbe263e": {
     "first_seen": "2026-10-03",
     "hash": "194b09068a946f0314e27578e305365a6b0f67d45b1628fb27eb93d9e75cf1af",
@@ -147,6 +162,36 @@
       "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
       "time": "17:30:00",
       "when": "2026-11-25 17:30:00"
+    }
+  },
+  "59ba85ab-72f1-4dcd-b200-c41d1333f94b": {
+    "first_seen": "2026-10-06",
+    "hash": "84c948575920021245557c40bbba4ab53ba517089d3e0fb75ca6bb83dfdf95ff",
+    "last_updated": "2026-10-06",
+    "snapshot": {
+      "cost": "120",
+      "date": "2026-10-26",
+      "name": "Kel TCG Delta Reign Pre release",
+      "shop": "KINGUIN ESPORTS LOUNGE",
+      "status": "",
+      "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, POMORSKIE 80-266, PL",
+      "time": "17:30:00",
+      "when": "2026-10-26 17:30:00"
+    }
+  },
+  "5a038203-710e-4f33-a315-15e2550de28a": {
+    "first_seen": "2026-10-06",
+    "hash": "43292a003e57af5d172edb9fee955cf112528d29195184cdd3b564abda2e65ad",
+    "last_updated": "2026-10-06",
+    "snapshot": {
+      "cost": "40",
+      "date": "2026-10-19",
+      "name": "Kel TCG October Challenge",
+      "shop": "KINGUIN ESPORTS LOUNGE",
+      "status": "",
+      "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, POMORSKIE 80-266, PL",
+      "time": "17:30:00",
+      "when": "2026-10-19 17:30:00"
     }
   },
   "6c612501-7ab7-4822-aa60-00c9ce8b693b": {
@@ -507,6 +552,21 @@
       "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
       "time": "18:00:00",
       "when": "2026-10-09 18:00:00"
+    }
+  },
+  "f8622ebb-473f-4cda-8b8f-f0308ae02fd9": {
+    "first_seen": "2026-10-06",
+    "hash": "b3eec4a5cd99f6b1d1da100c6c125ae688331f14f27dcd75ce062e92a40285b7",
+    "last_updated": "2026-10-06",
+    "snapshot": {
+      "cost": "60",
+      "date": "2026-10-18",
+      "name": "Kel TCG Cup",
+      "shop": "KINGUIN ESPORTS LOUNGE",
+      "status": "",
+      "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, POMORSKIE 80-266, PL",
+      "time": "10:00:00",
+      "when": "2026-10-18 10:00:00"
     }
   },
   "fbced8cc-56cc-4055-8dad-d970ec8586a1": {
