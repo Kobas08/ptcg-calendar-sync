@@ -524,21 +524,6 @@
       "when": "2026-10-30 17:30:00"
     }
   },
-  "f72f8b00-1744-49aa-a737-d3a0f2d805dd": {
-    "first_seen": "2026-09-04",
-    "hash": "4114fb04b04c743f7e590e9302d606c871e3b81f77968f422fa57b507eecda5c",
-    "last_updated": "2026-10-02",
-    "snapshot": {
-      "cost": "30",
-      "date": "2026-10-09",
-      "name": "TCG League Challenge - Pa\u017adziernik - CardzHouse",
-      "shop": "CARDZHOUSE",
-      "status": "",
-      "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
-      "time": "18:00:00",
-      "when": "2026-10-09 18:00:00"
-    }
-  },
   "f8622ebb-473f-4cda-8b8f-f0308ae02fd9": {
     "first_seen": "2026-10-06",
     "hash": "b3eec4a5cd99f6b1d1da100c6c125ae688331f14f27dcd75ce062e92a40285b7",
