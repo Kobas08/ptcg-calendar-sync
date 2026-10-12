@@ -329,21 +329,6 @@
       "when": "2026-10-14 18:00:00"
     }
   },
-  "91763412-514a-4edc-9629-0f73ee9b9780": {
-    "first_seen": "2026-09-04",
-    "hash": "0de9e9f43bd7819c6b5f07f761555c124099208d3a0d22a7a93c9cb7c9889f30",
-    "last_updated": "2026-09-29",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-10-11",
-      "name": "\u015awiat Kart League Cup",
-      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
-      "status": "",
-      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
-      "time": "10:30:00",
-      "when": "2026-10-11 10:30:00"
-    }
-  },
   "95cef843-59cb-46d2-a46d-dac05fc9fd5b": {
     "first_seen": "2026-10-01",
     "hash": "1732a8c98e714f1d967d5ea5fb03f116d0c95b9049a3bc83c8def83c13c53638",
@@ -447,6 +432,21 @@
       "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
       "time": "12:00:00",
       "when": "2026-10-18 12:00:00"
+    }
+  },
+  "d5a693ce-d185-40f3-9506-5b89eb4d7fad": {
+    "first_seen": "2026-10-12",
+    "hash": "beddbf285dd7f332e529d4bec572295e09a87aaf2b641ef7a4c5378c7ab0cdd3",
+    "last_updated": "2026-10-12",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-10-24",
+      "name": "Hej Mistrzu Delta Reign Prerelease",
+      "shop": "HEJ MISTRZU",
+      "status": "",
+      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
+      "time": "11:00:00",
+      "when": "2026-10-24 11:00:00"
     }
   },
   "ea73a62e-4253-4cc7-88b6-5f401bd998d5": {
