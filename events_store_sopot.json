@@ -404,21 +404,6 @@
       "when": "2026-10-28 17:30:00"
     }
   },
-  "c44164a6-ce3c-4b2a-bdd0-42235c8e93ad": {
-    "first_seen": "2026-09-04",
-    "hash": "ab47693fab5855c733fce085002fa4793c541172ee7d70a9b4b3a8ec17abc327",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-10-13",
-      "name": "Challenge w pika space (pa\u017adziernik, sezon 2027)",
-      "shop": "PIKA SPACE",
-      "status": "",
-      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
-      "time": "17:30:00",
-      "when": "2026-10-13 17:30:00"
-    }
-  },
   "d00c39e2-8c39-4cc2-b4fa-d0fec88e6c7b": {
     "first_seen": "2026-09-04",
     "hash": "1792b92f8b271f65ad154a1cdac3ddc2ee081a589d1b6b89e329a8f798b8d9d7",
