@@ -14,6 +14,21 @@
       "when": "2026-10-23 17:00:00"
     }
   },
+  "0d7e580d-7456-431d-bc9d-f8d4fde16d22": {
+    "first_seen": "2026-10-17",
+    "hash": "91ed0cd9c6ff352dddaef9e54ba787b58371ba38dc23e7b07009cde6ea087799",
+    "last_updated": "2026-10-17",
+    "snapshot": {
+      "cost": "140",
+      "date": "2026-10-24",
+      "name": "Prerelease Delta Reign w Maginarium!",
+      "shop": "MAGINARIUM",
+      "status": "",
+      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
+      "time": "11:00:00",
+      "when": "2026-10-24 11:00:00"
+    }
+  },
   "16f15f4c-db61-4e67-8ca3-3ea6953ac9f1": {
     "first_seen": "2026-09-04",
     "hash": "9b35ff366f3d8a4fab083dc5e7b900190b67f0310c0cd384a1e8c46f825b6a4f",
@@ -387,6 +402,21 @@
       "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
       "time": "12:00:00",
       "when": "2026-10-18 12:00:00"
+    }
+  },
+  "d05d0a2f-6707-48cb-afc0-b3676f6241bd": {
+    "first_seen": "2026-10-17",
+    "hash": "9f4cf9ad6abf5506789b88cd422b955e1cca7901fbad4cb0bf757aa6d7a4e421",
+    "last_updated": "2026-10-17",
+    "snapshot": {
+      "cost": "140",
+      "date": "2026-10-28",
+      "name": "Prerelease Delta Reign w Maginarium!",
+      "shop": "MAGINARIUM",
+      "status": "",
+      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
+      "time": "15:00:00",
+      "when": "2026-10-28 15:00:00"
     }
   },
   "d5a693ce-d185-40f3-9506-5b89eb4d7fad": {
