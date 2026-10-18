@@ -119,21 +119,6 @@
       "when": "2026-10-24 00:00:00"
     }
   },
-  "3689c752-7055-4220-91bf-d3bb83f00b6f": {
-    "first_seen": "2026-09-04",
-    "hash": "59050c59da19cf9ca3f749807e8d89a9735f2b62aedf18bc5491407d00cde884",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-10-17",
-      "name": "Hej Mistrzu TCG League Challenge October",
-      "shop": "HEJ MISTRZU",
-      "status": "",
-      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
-      "time": "11:00:00",
-      "when": "2026-10-17 11:00:00"
-    }
-  },
   "45a2a01e-6739-41ec-9e6a-41a5d982e870": {
     "first_seen": "2026-09-29",
     "hash": "bb31f5c97db21e7d397e396659e0b7528b487338d0688f6f9a3ff7bb34cfe542",
@@ -492,6 +477,21 @@
       "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, POMORSKIE 80-266, PL",
       "time": "10:00:00",
       "when": "2026-10-18 10:00:00"
+    }
+  },
+  "f9dc21a2-d415-4ad8-bf57-a87c4a2a741d": {
+    "first_seen": "2026-10-18",
+    "hash": "c94d4cf1c60afbc758fec4ce016ea25cc06270b0eccd1c4169383a6d08064501",
+    "last_updated": "2026-10-18",
+    "snapshot": {
+      "cost": "30",
+      "date": "2026-11-19",
+      "name": "Pokemon Challange w Maginarium!",
+      "shop": "MAGINARIUM",
+      "status": "",
+      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
+      "time": "17:30:00",
+      "when": "2026-11-19 17:30:00"
     }
   },
   "fbced8cc-56cc-4055-8dad-d970ec8586a1": {
