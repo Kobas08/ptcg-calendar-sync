@@ -164,21 +164,6 @@
       "when": "2026-10-26 17:30:00"
     }
   },
-  "5a038203-710e-4f33-a315-15e2550de28a": {
-    "first_seen": "2026-10-06",
-    "hash": "43292a003e57af5d172edb9fee955cf112528d29195184cdd3b564abda2e65ad",
-    "last_updated": "2026-10-06",
-    "snapshot": {
-      "cost": "40",
-      "date": "2026-10-19",
-      "name": "Kel TCG October Challenge",
-      "shop": "KINGUIN ESPORTS LOUNGE",
-      "status": "",
-      "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, POMORSKIE 80-266, PL",
-      "time": "17:30:00",
-      "when": "2026-10-19 17:30:00"
-    }
-  },
   "6c612501-7ab7-4822-aa60-00c9ce8b693b": {
     "first_seen": "2026-09-27",
     "hash": "42216dd52e2a9f864fcdbacfc014653c15ea3290eddd36c5b3c1701ec20d9844",
