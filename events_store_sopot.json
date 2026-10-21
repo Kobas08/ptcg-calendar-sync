@@ -31,10 +31,10 @@
   },
   "16f15f4c-db61-4e67-8ca3-3ea6953ac9f1": {
     "first_seen": "2026-09-04",
-    "hash": "9b35ff366f3d8a4fab083dc5e7b900190b67f0310c0cd384a1e8c46f825b6a4f",
-    "last_updated": "2026-10-02",
+    "hash": "e20e1d58471bc22b8a524cb006279d74f6d50aa0b3b401a872c98e54c71f19f8",
+    "last_updated": "2026-10-21",
     "snapshot": {
-      "cost": "30",
+      "cost": "25",
       "date": "2026-11-13",
       "name": "TCG League Challenge - Listopad - CardzHouse",
       "shop": "CARDZHOUSE",
