@@ -1,19 +1,4 @@
 {
-  "0c97bcf2-885e-4475-92d1-39b5063f7d32": {
-    "first_seen": "2026-09-04",
-    "hash": "f9986edd22b14d85cea0892a497cdcdff26895ef97f41ba2a2599d0c0e637d97",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "30",
-      "date": "2026-10-23",
-      "name": "Pa\u017adziernikowy Challenge w \u015awiecie Kart",
-      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
-      "status": "",
-      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
-      "time": "17:00:00",
-      "when": "2026-10-23 17:00:00"
-    }
-  },
   "0d7e580d-7456-431d-bc9d-f8d4fde16d22": {
     "first_seen": "2026-10-17",
     "hash": "91ed0cd9c6ff352dddaef9e54ba787b58371ba38dc23e7b07009cde6ea087799",
