@@ -1,19 +1,4 @@
 {
-  "0d7e580d-7456-431d-bc9d-f8d4fde16d22": {
-    "first_seen": "2026-10-17",
-    "hash": "91ed0cd9c6ff352dddaef9e54ba787b58371ba38dc23e7b07009cde6ea087799",
-    "last_updated": "2026-10-17",
-    "snapshot": {
-      "cost": "140",
-      "date": "2026-10-24",
-      "name": "Prerelease Delta Reign w Maginarium!",
-      "shop": "MAGINARIUM",
-      "status": "",
-      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
-      "time": "11:00:00",
-      "when": "2026-10-24 11:00:00"
-    }
-  },
   "16f15f4c-db61-4e67-8ca3-3ea6953ac9f1": {
     "first_seen": "2026-09-04",
     "hash": "e20e1d58471bc22b8a524cb006279d74f6d50aa0b3b401a872c98e54c71f19f8",
@@ -57,51 +42,6 @@
       "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
       "time": "17:30:00",
       "when": "2026-11-05 17:30:00"
-    }
-  },
-  "33b7edb6-1a87-4f6f-81ee-097a3d6b8d00": {
-    "first_seen": "2026-10-06",
-    "hash": "ce4d68a0de211df763a34e961723858f923073503b327a9dd39c39e6165aaffd",
-    "last_updated": "2026-10-06",
-    "snapshot": {
-      "cost": "125,00 PLN",
-      "date": "2026-10-24",
-      "name": "Delta Reign Prerelease",
-      "shop": "SIDEQUEST",
-      "status": "",
-      "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
-      "time": "12:00:00",
-      "when": "2026-10-24 12:00:00"
-    }
-  },
-  "35bf6ac1-ba01-4ebe-ac63-2c085bbe263e": {
-    "first_seen": "2026-10-03",
-    "hash": "194b09068a946f0314e27578e305365a6b0f67d45b1628fb27eb93d9e75cf1af",
-    "last_updated": "2026-10-03",
-    "snapshot": {
-      "cost": "125",
-      "date": "2026-10-24",
-      "name": "Delta Reign - Prerelease - CardzHouse",
-      "shop": "CARDZHOUSE",
-      "status": "",
-      "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
-      "time": "12:00:00",
-      "when": "2026-10-24 12:00:00"
-    }
-  },
-  "36338b69-63a3-43b7-97d5-d4a59cefe124": {
-    "first_seen": "2026-09-27",
-    "hash": "d1dbdfe9676e72fe4aebbcd3f146ce746eb026c00049511b2e1ba23c6c256af0",
-    "last_updated": "2026-09-27",
-    "snapshot": {
-      "cost": "130",
-      "date": "2026-10-24",
-      "name": "Delta Reign Nocny Basta Center Shop",
-      "shop": "BASTA CENTER SHOP",
-      "status": "",
-      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
-      "time": "00:00:00",
-      "when": "2026-10-24 00:00:00"
     }
   },
   "45a2a01e-6739-41ec-9e6a-41a5d982e870": {
@@ -314,21 +254,6 @@
       "when": "2026-11-22 12:00:00"
     }
   },
-  "b1956101-51d5-4716-aa6b-01852c90fbce": {
-    "first_seen": "2026-09-27",
-    "hash": "00a785ba238fedd561d7614811692dfed207af80c07d7846244f0429a0cb8623",
-    "last_updated": "2026-09-27",
-    "snapshot": {
-      "cost": "130",
-      "date": "2026-10-24",
-      "name": "Delta Reign Prerelease 24.10.2026",
-      "shop": "BASTA CENTER SHOP",
-      "status": "",
-      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
-      "time": "14:00:00",
-      "when": "2026-10-24 14:00:00"
-    }
-  },
   "b2ec7b0b-6a8c-4fef-9021-aea50f9675aa": {
     "first_seen": "2026-10-01",
     "hash": "4168f4af9bf3b62a20e9c5e8fd2b13b366ea9e0e349432651a7e8d9b564d0bb2",
@@ -357,21 +282,6 @@
       "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
       "time": "15:00:00",
       "when": "2026-10-28 15:00:00"
-    }
-  },
-  "d5a693ce-d185-40f3-9506-5b89eb4d7fad": {
-    "first_seen": "2026-10-12",
-    "hash": "beddbf285dd7f332e529d4bec572295e09a87aaf2b641ef7a4c5378c7ab0cdd3",
-    "last_updated": "2026-10-12",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-10-24",
-      "name": "Hej Mistrzu Delta Reign Prerelease",
-      "shop": "HEJ MISTRZU",
-      "status": "",
-      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
-      "time": "11:00:00",
-      "when": "2026-10-24 11:00:00"
     }
   },
   "ea73a62e-4253-4cc7-88b6-5f401bd998d5": {
