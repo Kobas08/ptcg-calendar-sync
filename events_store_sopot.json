@@ -44,19 +44,19 @@
       "when": "2026-11-05 17:30:00"
     }
   },
-  "45a2a01e-6739-41ec-9e6a-41a5d982e870": {
-    "first_seen": "2026-09-29",
-    "hash": "bb31f5c97db21e7d397e396659e0b7528b487338d0688f6f9a3ff7bb34cfe542",
-    "last_updated": "2026-09-29",
+  "4103b0ee-b861-44d2-bf1e-67d1f3126c29": {
+    "first_seen": "2026-10-27",
+    "hash": "3b9a433cc5e366d4803d5bf86cc57acc10b4ed36400f0e1d907ceaa4f6d72f6d",
+    "last_updated": "2026-10-27",
     "snapshot": {
-      "cost": "130",
-      "date": "2026-10-26",
-      "name": "Delta Reign prerelease",
-      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
+      "cost": "40",
+      "date": "2026-11-30",
+      "name": "Kel TCG Challenge",
+      "shop": "KINGUIN ESPORTS LOUNGE",
       "status": "",
-      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
-      "time": "17:00:00",
-      "when": "2026-10-26 17:00:00"
+      "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, POMORSKIE 80-266, PL",
+      "time": "17:30:00",
+      "when": "2026-11-30 17:30:00"
     }
   },
   "539e698a-acfb-4690-b10b-ce13a675f576": {
@@ -72,21 +72,6 @@
       "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
       "time": "17:30:00",
       "when": "2026-11-25 17:30:00"
-    }
-  },
-  "59ba85ab-72f1-4dcd-b200-c41d1333f94b": {
-    "first_seen": "2026-10-06",
-    "hash": "84c948575920021245557c40bbba4ab53ba517089d3e0fb75ca6bb83dfdf95ff",
-    "last_updated": "2026-10-06",
-    "snapshot": {
-      "cost": "120",
-      "date": "2026-10-26",
-      "name": "Kel TCG Delta Reign Pre release",
-      "shop": "KINGUIN ESPORTS LOUNGE",
-      "status": "",
-      "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, POMORSKIE 80-266, PL",
-      "time": "17:30:00",
-      "when": "2026-10-26 17:30:00"
     }
   },
   "6ce68c8b-b0aa-48c3-b56a-30319500562c": {
@@ -252,6 +237,21 @@
       "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
       "time": "17:30:00",
       "when": "2026-10-28 17:30:00"
+    }
+  },
+  "c0e88d4e-ea12-4592-802c-796084a6481a": {
+    "first_seen": "2026-10-27",
+    "hash": "1ce9652b7828c4e339970c669676e40a01badb694b7f78cd7a1ffa94007ce3c5",
+    "last_updated": "2026-10-27",
+    "snapshot": {
+      "cost": "45",
+      "date": "2026-11-08",
+      "name": "TCG League Cup - CardzHouse",
+      "shop": "CARDZHOUSE",
+      "status": "",
+      "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
+      "time": "11:30:00",
+      "when": "2026-11-08 11:30:00"
     }
   },
   "d05d0a2f-6707-48cb-afc0-b3676f6241bd": {
