@@ -104,21 +104,6 @@
       "when": "2026-11-07 11:00:00"
     }
   },
-  "7ae5a698-0620-423b-a7d6-9aa708bae3a4": {
-    "first_seen": "2026-09-30",
-    "hash": "7565c0e2197bb53262f6574b040a047b65faeec42a534905830d28cf9b698439",
-    "last_updated": "2026-09-30",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-10-27",
-      "name": "Turniej Przedpremierowy - ME Delta Reign 1",
-      "shop": "MANGI U SMOCZEJ CIOTKI",
-      "status": "",
-      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
-      "time": "17:00:00",
-      "when": "2026-10-27 17:00:00"
-    }
-  },
   "8015be25-008b-4043-8b36-303cfdc183d9": {
     "first_seen": "2026-09-30",
     "hash": "9422a0cf7ae8c180447a5f61705702ed7d7703fe709ca3480756436bc00f04fd",
@@ -267,21 +252,6 @@
       "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
       "time": "15:00:00",
       "when": "2026-10-28 15:00:00"
-    }
-  },
-  "ea73a62e-4253-4cc7-88b6-5f401bd998d5": {
-    "first_seen": "2026-09-29",
-    "hash": "9d0284dabfa12128b5c8d9e5b102b49ea80b1e0a724d7c0e3f16dd613fddaaaa",
-    "last_updated": "2026-09-29",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-10-27",
-      "name": "Prerelease Delta Reign w PIKA SPACE",
-      "shop": "PIKA SPACE",
-      "status": "",
-      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
-      "time": "17:30:00",
-      "when": "2026-10-27 17:30:00"
     }
   },
   "ed061b87-37b7-49c6-8686-1629aaeee0b7": {
