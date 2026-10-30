@@ -104,21 +104,6 @@
       "when": "2026-11-07 11:00:00"
     }
   },
-  "8015be25-008b-4043-8b36-303cfdc183d9": {
-    "first_seen": "2026-09-30",
-    "hash": "9422a0cf7ae8c180447a5f61705702ed7d7703fe709ca3480756436bc00f04fd",
-    "last_updated": "2026-09-30",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-10-29",
-      "name": "Turniej Przedpremierowy - ME Delta Reign 2",
-      "shop": "MANGI U SMOCZEJ CIOTKI",
-      "status": "",
-      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
-      "time": "17:00:00",
-      "when": "2026-10-29 17:00:00"
-    }
-  },
   "82684638-c81d-46cb-8118-67a6a3ea9087": {
     "first_seen": "2026-09-04",
     "hash": "84de0abdd930f890c5466346bb0dd942fe523aec25097e35322d470b4e7ae083",
@@ -132,21 +117,6 @@
       "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
       "time": "09:30:00",
       "when": "2026-11-21 09:30:00"
-    }
-  },
-  "82bfb6b2-67b2-400f-a5e3-fcda953d1c83": {
-    "first_seen": "2026-09-30",
-    "hash": "73b22b52200fd7e8e4ee9d4c4ca28c72ebc6367bf074521241d8c0e27164d268",
-    "last_updated": "2026-09-30",
-    "snapshot": {
-      "cost": "125 z\u0142",
-      "date": "2026-10-29",
-      "name": "KROLM Delta Reign Prerelease",
-      "shop": "KROLM",
-      "status": "",
-      "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
-      "time": "17:30:00",
-      "when": "2026-10-29 17:30:00"
     }
   },
   "86d27fae-1f2c-4f30-8e9e-43957183da3a": {
@@ -177,21 +147,6 @@
       "street_address": "4 JANA KILI\u0143SKIEGO, GDA\u0143SK, WOJEW\u00d3DZTWO POMORSKIE 80-452, PL",
       "time": "17:00:00",
       "when": "2026-11-03 17:00:00"
-    }
-  },
-  "95d642b5-8b11-4520-8574-85fa509f4200": {
-    "first_seen": "2026-10-02",
-    "hash": "e7f301d1e2b6081e3c229356ba14dd46dc03e9747ef7938d38a0ab334f87f4a8",
-    "last_updated": "2026-10-02",
-    "snapshot": {
-      "cost": "140",
-      "date": "2026-10-29",
-      "name": "Prerelease Delta Reign w Maginarium",
-      "shop": "MAGINARIUM",
-      "status": "",
-      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
-      "time": "17:30:00",
-      "when": "2026-10-29 17:30:00"
     }
   },
   "a2976c5e-870a-4797-83b4-6f197cf3cd4b": {
