@@ -14,21 +14,6 @@
       "when": "2026-11-13 18:00:00"
     }
   },
-  "1bf3f00f-b3e2-47cb-b941-c8f696a9da83": {
-    "first_seen": "2026-09-29",
-    "hash": "29eb894b734d284df92ecfb32c7e4cf987e84a00930f1a897e6562bebf6138d7",
-    "last_updated": "2026-09-29",
-    "snapshot": {
-      "cost": "130",
-      "date": "2026-10-30",
-      "name": "Delta Reign prerelease",
-      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
-      "status": "",
-      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
-      "time": "17:00:00",
-      "when": "2026-10-30 17:00:00"
-    }
-  },
   "2dc8181d-b166-470c-bab1-b0909d73ee99": {
     "first_seen": "2026-09-30",
     "hash": "f3722fa31f4c080e38868f33a7d70b9bec68c1725c2defedac68869b304926ac",
@@ -177,21 +162,6 @@
       "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
       "time": "11:30:00",
       "when": "2026-11-08 11:30:00"
-    }
-  },
-  "f2a517fb-ac9a-4650-afd4-b883d0f605bb": {
-    "first_seen": "2026-09-16",
-    "hash": "238b9a02c353a8c749d1f861070984e4db917c04259132899449529277a169be",
-    "last_updated": "2026-10-02",
-    "snapshot": {
-      "cost": "25",
-      "date": "2026-10-30",
-      "name": "Kuznia Challenge",
-      "shop": "KUZNIA KART",
-      "status": "",
-      "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
-      "time": "17:30:00",
-      "when": "2026-10-30 17:30:00"
     }
   },
   "f9dc21a2-d415-4ad8-bf57-a87c4a2a741d": {
