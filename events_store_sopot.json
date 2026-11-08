@@ -44,36 +44,6 @@
       "when": "2026-11-25 17:30:00"
     }
   },
-  "6ce68c8b-b0aa-48c3-b56a-30319500562c": {
-    "first_seen": "2026-09-04",
-    "hash": "25e6faef04273c03748360bf850e653c24c63d09630124d9ccb6acb80e226cda",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "45,00 PLN",
-      "date": "2026-11-07",
-      "name": "SideQuest League Challenge November '26",
-      "shop": "SIDEQUEST",
-      "status": "",
-      "street_address": "13B PARTYZANT\u00d3W, GDA\u0143SK, POMORSKIE 80-254, PL",
-      "time": "12:00:00",
-      "when": "2026-11-07 12:00:00"
-    }
-  },
-  "744374a1-35c5-4f07-b9e6-cc05d15551c5": {
-    "first_seen": "2026-09-04",
-    "hash": "323407deb1a15e216e573481ed72e4562cb2be0810d612d0f0213e2c34b57a5a",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-11-07",
-      "name": "Hej Mistrzu! TCG League Challenge November",
-      "shop": "HEJ MISTRZU",
-      "status": "",
-      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
-      "time": "11:00:00",
-      "when": "2026-11-07 11:00:00"
-    }
-  },
   "82684638-c81d-46cb-8118-67a6a3ea9087": {
     "first_seen": "2026-09-04",
     "hash": "84de0abdd930f890c5466346bb0dd942fe523aec25097e35322d470b4e7ae083",
