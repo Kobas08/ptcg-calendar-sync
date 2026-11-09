@@ -89,21 +89,6 @@
       "when": "2026-11-22 12:00:00"
     }
   },
-  "c0e88d4e-ea12-4592-802c-796084a6481a": {
-    "first_seen": "2026-10-27",
-    "hash": "1ce9652b7828c4e339970c669676e40a01badb694b7f78cd7a1ffa94007ce3c5",
-    "last_updated": "2026-10-27",
-    "snapshot": {
-      "cost": "45",
-      "date": "2026-11-08",
-      "name": "TCG League Cup - CardzHouse",
-      "shop": "CARDZHOUSE",
-      "status": "",
-      "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
-      "time": "11:30:00",
-      "when": "2026-11-08 11:30:00"
-    }
-  },
   "f9dc21a2-d415-4ad8-bf57-a87c4a2a741d": {
     "first_seen": "2026-10-18",
     "hash": "c94d4cf1c60afbc758fec4ce016ea25cc06270b0eccd1c4169383a6d08064501",
