@@ -104,21 +104,6 @@
       "when": "2026-11-15 12:00:00"
     }
   },
-  "fbfb590d-4863-49b6-b218-0224c2fc9305": {
-    "first_seen": "2026-09-04",
-    "hash": "3ce7700b632183690eacb2db4e43057d5900ed49a8412d8d1c9ab43b11a0b624",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "Free",
-      "date": "2026-11-11",
-      "name": "Listopadowy Pok\u00e9mon League Challenge W Basta Center Shop 11.",
-      "shop": "BASTA CENTER SHOP",
-      "status": "",
-      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
-      "time": "11:30:00",
-      "when": "2026-11-11 11:30:00"
-    }
-  },
   "ffd741ec-74a4-47c0-bd8a-b3a63d0e492e": {
     "first_seen": "2026-09-04",
     "hash": "1900b3ba8e427c9c22247558e5f9ee91144b99f8c07b513afdc4159a00a612ba",
