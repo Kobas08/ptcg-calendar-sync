@@ -1,19 +1,4 @@
 {
-  "16f15f4c-db61-4e67-8ca3-3ea6953ac9f1": {
-    "first_seen": "2026-09-04",
-    "hash": "e20e1d58471bc22b8a524cb006279d74f6d50aa0b3b401a872c98e54c71f19f8",
-    "last_updated": "2026-10-21",
-    "snapshot": {
-      "cost": "25",
-      "date": "2026-11-13",
-      "name": "TCG League Challenge - Listopad - CardzHouse",
-      "shop": "CARDZHOUSE",
-      "status": "",
-      "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
-      "time": "18:00:00",
-      "when": "2026-11-13 18:00:00"
-    }
-  },
   "4103b0ee-b861-44d2-bf1e-67d1f3126c29": {
     "first_seen": "2026-10-27",
     "hash": "3b9a433cc5e366d4803d5bf86cc57acc10b4ed36400f0e1d907ceaa4f6d72f6d",
