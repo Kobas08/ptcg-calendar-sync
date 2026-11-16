@@ -74,21 +74,6 @@
       "when": "2026-11-19 17:30:00"
     }
   },
-  "fbced8cc-56cc-4055-8dad-d970ec8586a1": {
-    "first_seen": "2026-09-04",
-    "hash": "d7b233caeb9069d0c2e3f25ecc2e84de54e61f2690b2d5185238e6a6c760b9d3",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-11-15",
-      "name": "Listopadowy Challenge",
-      "shop": "MANGI U SMOCZEJ CIOTKI",
-      "status": "",
-      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
-      "time": "12:00:00",
-      "when": "2026-11-15 12:00:00"
-    }
-  },
   "ffd741ec-74a4-47c0-bd8a-b3a63d0e492e": {
     "first_seen": "2026-09-04",
     "hash": "1900b3ba8e427c9c22247558e5f9ee91144b99f8c07b513afdc4159a00a612ba",
