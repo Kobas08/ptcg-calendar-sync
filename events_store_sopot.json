@@ -1,4 +1,49 @@
 {
+  "18ef939c-93c5-41e0-b69b-97788a955460": {
+    "first_seen": "2026-11-17",
+    "hash": "1b37575e5f2b0ce25b0853e5f7cef53d9f7fd05f2d2ba4d771aa2e5b516709b4",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "",
+      "date": "2027-02-21",
+      "name": "Lutowy Challenge",
+      "shop": "MANGI U SMOCZEJ CIOTKI",
+      "status": "",
+      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
+      "time": "12:00:00",
+      "when": "2027-02-21 12:00:00"
+    }
+  },
+  "1a7b104a-af6d-4d14-b31e-530a07409054": {
+    "first_seen": "2026-11-17",
+    "hash": "1176bc3da010e84722b095f884f80b8fc9f512c4e701b3b368d6012a7aa89448",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "",
+      "date": "2027-01-24",
+      "name": "Kwartalny Cup - Stycze\u0144",
+      "shop": "MANGI U SMOCZEJ CIOTKI",
+      "status": "",
+      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
+      "time": "12:00:00",
+      "when": "2027-01-24 12:00:00"
+    }
+  },
+  "1ba29331-d051-4118-8ba1-84385a5587c6": {
+    "first_seen": "2026-11-17",
+    "hash": "a5f9f53e889c89730ddce314703f3af513d6a4bc94f5d300e2117499990fd26f",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "Free",
+      "date": "2026-12-12",
+      "name": "League Cup W Basta Center Shop  12.12.2026",
+      "shop": "BASTA CENTER SHOP",
+      "status": "",
+      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
+      "time": "10:00:00",
+      "when": "2026-12-12 10:00:00"
+    }
+  },
   "4103b0ee-b861-44d2-bf1e-67d1f3126c29": {
     "first_seen": "2026-10-27",
     "hash": "3b9a433cc5e366d4803d5bf86cc57acc10b4ed36400f0e1d907ceaa4f6d72f6d",
@@ -14,6 +59,21 @@
       "when": "2026-11-30 17:30:00"
     }
   },
+  "4c6b98d1-131f-4f56-be42-5aca4b2c4ff9": {
+    "first_seen": "2026-11-17",
+    "hash": "3045c6497cbb14c6947f1cd78dbacc51474ebc13190615b9069b5cfc5218a844",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "35 z\u0142",
+      "date": "2027-01-07",
+      "name": "Krolm Pokemon League Challenge 7-1-2027",
+      "shop": "KROLM",
+      "status": "",
+      "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
+      "time": "17:30:00",
+      "when": "2027-01-07 17:30:00"
+    }
+  },
   "539e698a-acfb-4690-b10b-ce13a675f576": {
     "first_seen": "2026-09-16",
     "hash": "eaecd48be51307103ecebc69dbfd9a44fab4224d110ad14d368fd7c184a696e1",
@@ -27,6 +87,51 @@
       "street_address": "ANTONIEGO LENDZIONA 15, 80-264 GDA\u0143SK, POLAND",
       "time": "17:30:00",
       "when": "2026-11-25 17:30:00"
+    }
+  },
+  "5895e1c7-139a-4f3f-8500-e99fe6f6cf0a": {
+    "first_seen": "2026-11-17",
+    "hash": "2c5643231cb8ba46c2e375a60b14edf4a9c1185eb7d8fc394ac93725dac418b3",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "",
+      "date": "2027-02-16",
+      "name": "Challenge w pika space (luty, sezon 2027)",
+      "shop": "PIKA SPACE",
+      "status": "",
+      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
+      "time": "19:30:00",
+      "when": "2027-02-16 19:30:00"
+    }
+  },
+  "61904795-33a6-4e4f-a77e-80a6431d660a": {
+    "first_seen": "2026-11-17",
+    "hash": "f7bd8c112b98bc0d36377399ff9e093081d0c4f8c3ff99bfc2f1bd59e21fb481",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-12-13",
+      "name": "Grudniowy Challenge",
+      "shop": "MANGI U SMOCZEJ CIOTKI",
+      "status": "",
+      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
+      "time": "16:00:00",
+      "when": "2026-12-13 16:00:00"
+    }
+  },
+  "6c652e26-ed41-4d16-af7c-bb8c5d5bbb43": {
+    "first_seen": "2026-11-17",
+    "hash": "fc4df7c459b27c6f51d67dde5a4eb4c30f59e36b86d9a52a2644b83bf0542cd2",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "35 z\u0142",
+      "date": "2026-12-03",
+      "name": "Krolm Pokemon League Challenge 3-12-2026",
+      "shop": "KROLM",
+      "status": "",
+      "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
+      "time": "17:30:00",
+      "when": "2026-12-03 17:30:00"
     }
   },
   "82684638-c81d-46cb-8118-67a6a3ea9087": {
@@ -59,6 +164,81 @@
       "when": "2026-11-22 12:00:00"
     }
   },
+  "b86f67e7-88b8-4baf-b7c1-043e944a0e46": {
+    "first_seen": "2026-11-17",
+    "hash": "13c37636de4ad3b736b137b47e035178cdc99bafcf1fb5a6745347777b1da614",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "",
+      "date": "2027-01-12",
+      "name": "Challenge w pika space (stycze\u0144, sezon 2027)",
+      "shop": "PIKA SPACE",
+      "status": "",
+      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
+      "time": "17:30:00",
+      "when": "2027-01-12 17:30:00"
+    }
+  },
+  "c6c32392-d389-4a46-a9e2-6c1a9fe2dc9f": {
+    "first_seen": "2026-11-17",
+    "hash": "c66a60aaf9f9370dc9f262aa81d291451c9b546f39f08193cf771dd47115ff2c",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "",
+      "date": "2027-01-17",
+      "name": "Styczniowy Challenge",
+      "shop": "MANGI U SMOCZEJ CIOTKI",
+      "status": "",
+      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
+      "time": "12:00:00",
+      "when": "2027-01-17 12:00:00"
+    }
+  },
+  "e7b700bf-d5b5-4e5a-969a-4c862a7f8079": {
+    "first_seen": "2026-11-17",
+    "hash": "0435e470387cedf37f0915f62758d286b30d5f57cdd2ece46945e646dde28234",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "Free",
+      "date": "2026-12-05",
+      "name": "Grudniowy Challenge W Basta Center Shop  05.12.2026",
+      "shop": "BASTA CENTER SHOP",
+      "status": "",
+      "street_address": "PA\u0143SKA 7/8, 80-840 GDA\u0143SK, POLAND",
+      "time": "11:30:00",
+      "when": "2026-12-05 11:30:00"
+    }
+  },
+  "e900ee91-7d3c-47f3-bb5a-194f870da5ca": {
+    "first_seen": "2026-11-17",
+    "hash": "10b1644d4b081a43cc997a14bf097a0d54ccb50e73f009cc61ff138237bf3bc5",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "",
+      "date": "2027-01-23",
+      "name": "Pierwszy CUP w pika space",
+      "shop": "PIKA SPACE",
+      "status": "",
+      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
+      "time": "10:00:00",
+      "when": "2027-01-23 10:00:00"
+    }
+  },
+  "f976a96c-a0c0-4064-817e-6d4e69d45073": {
+    "first_seen": "2026-11-17",
+    "hash": "87d1858c36be711fff999d27c5bfacb4c3ac84b17f54b21869fa230f6c3d67b0",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-12-08",
+      "name": "Challenge w pika space (grudzie\u0144, sezon 2027)",
+      "shop": "PIKA SPACE",
+      "status": "",
+      "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
+      "time": "17:30:00",
+      "when": "2026-12-08 17:30:00"
+    }
+  },
   "f9dc21a2-d415-4ad8-bf57-a87c4a2a741d": {
     "first_seen": "2026-10-18",
     "hash": "c94d4cf1c60afbc758fec4ce016ea25cc06270b0eccd1c4169383a6d08064501",
@@ -72,6 +252,21 @@
       "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
       "time": "17:30:00",
       "when": "2026-11-19 17:30:00"
+    }
+  },
+  "ffb8f886-98de-4087-9a66-35c6d204c66c": {
+    "first_seen": "2026-11-17",
+    "hash": "99857af5bbf145e032cea471bba694049baef2ecd4ff746ed59cc42deeda651a",
+    "last_updated": "2026-11-17",
+    "snapshot": {
+      "cost": "35 z\u0142",
+      "date": "2027-02-04",
+      "name": "Krolm Pokemon League Challenge 4-2-2027",
+      "shop": "KROLM",
+      "status": "",
+      "street_address": "7 STARY RYNEK OLIWSKI, GDA\u0143SK, POMORSKIE 80-326, PL",
+      "time": "17:30:00",
+      "when": "2027-02-04 17:30:00"
     }
   },
   "ffd741ec-74a4-47c0-bd8a-b3a63d0e492e": {
