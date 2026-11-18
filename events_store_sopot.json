@@ -179,6 +179,21 @@
       "when": "2027-01-12 17:30:00"
     }
   },
+  "bddb2c84-a9d3-438a-989c-b330a3ae79b2": {
+    "first_seen": "2026-11-18",
+    "hash": "33e911e3bb2175278e7638bff08b20895db7539b80b5f1de975ed5e0a423c850",
+    "last_updated": "2026-11-18",
+    "snapshot": {
+      "cost": "35",
+      "date": "2026-12-20",
+      "name": "League Challenge w ManaDrop",
+      "shop": "MANADROP.PL - SKLEP HOBBYSTYCZNY",
+      "status": "",
+      "street_address": "WA\u0141Y JAGIELLO\u0143SKIE 8/BOX 12, 80-887 GDA\u0143SK, POLAND",
+      "time": "12:00:00",
+      "when": "2026-12-20 12:00:00"
+    }
+  },
   "c6c32392-d389-4a46-a9e2-6c1a9fe2dc9f": {
     "first_seen": "2026-11-17",
     "hash": "c66a60aaf9f9370dc9f262aa81d291451c9b546f39f08193cf771dd47115ff2c",
@@ -222,6 +237,21 @@
       "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
       "time": "10:00:00",
       "when": "2027-01-23 10:00:00"
+    }
+  },
+  "ef0238c1-fe44-4b4a-b311-c01cdf4e5f8e": {
+    "first_seen": "2026-11-18",
+    "hash": "5caaa91ccdeb4b29eefecfcb00cee7cce92ab74f3a4c545eea36f4827091c800",
+    "last_updated": "2026-11-18",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-12-05",
+      "name": "Hej MIstrzu! TCG League 05.12.2026",
+      "shop": "HEJ MISTRZU",
+      "status": "",
+      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
+      "time": "11:00:00",
+      "when": "2026-12-05 11:00:00"
     }
   },
   "f976a96c-a0c0-4064-817e-6d4e69d45073": {
