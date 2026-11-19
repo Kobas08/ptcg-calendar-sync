@@ -134,6 +134,21 @@
       "when": "2026-12-03 17:30:00"
     }
   },
+  "7307c422-dbb3-45f9-98c7-afc554620dd5": {
+    "first_seen": "2026-11-19",
+    "hash": "7aad1d2eaab93a07de1afc9e2f446adf40252d8898896126c6fd24c25a6f9c0a",
+    "last_updated": "2026-11-19",
+    "snapshot": {
+      "cost": "",
+      "date": "2026-12-19",
+      "name": "GRUDNIOWY LEAGUE CHALLENGE \u2013 GEM DROP - 19.12.2026",
+      "shop": "GEMDROP",
+      "status": "",
+      "street_address": "JAGIELLO\u0143SKA 13/LOK. U6, 80-371 GDA\u0143SK, POLAND",
+      "time": "12:00:00",
+      "when": "2026-12-19 12:00:00"
+    }
+  },
   "82684638-c81d-46cb-8118-67a6a3ea9087": {
     "first_seen": "2026-09-04",
     "hash": "84de0abdd930f890c5466346bb0dd942fe523aec25097e35322d470b4e7ae083",
