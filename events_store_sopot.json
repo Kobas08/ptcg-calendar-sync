@@ -151,8 +151,8 @@
   },
   "82684638-c81d-46cb-8118-67a6a3ea9087": {
     "first_seen": "2026-09-04",
-    "hash": "84de0abdd930f890c5466346bb0dd942fe523aec25097e35322d470b4e7ae083",
-    "last_updated": "2026-09-04",
+    "hash": "c25b06568140577847aa7562686802ef5d9cf8cb79d8a6993ac6c9888a5b02df",
+    "last_updated": "2026-11-20",
     "snapshot": {
       "cost": "",
       "date": "2026-11-21",
@@ -160,8 +160,8 @@
       "shop": "HEJ MISTRZU",
       "status": "",
       "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
-      "time": "09:30:00",
-      "when": "2026-11-21 09:30:00"
+      "time": "09:00:00",
+      "when": "2026-11-21 09:00:00"
     }
   },
   "a2976c5e-870a-4797-83b4-6f197cf3cd4b": {
@@ -282,21 +282,6 @@
       "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
       "time": "17:30:00",
       "when": "2026-12-08 17:30:00"
-    }
-  },
-  "f9dc21a2-d415-4ad8-bf57-a87c4a2a741d": {
-    "first_seen": "2026-10-18",
-    "hash": "c94d4cf1c60afbc758fec4ce016ea25cc06270b0eccd1c4169383a6d08064501",
-    "last_updated": "2026-10-18",
-    "snapshot": {
-      "cost": "30",
-      "date": "2026-11-19",
-      "name": "Pokemon Challange w Maginarium!",
-      "shop": "MAGINARIUM",
-      "status": "",
-      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
-      "time": "17:30:00",
-      "when": "2026-11-19 17:30:00"
     }
   },
   "ffb8f886-98de-4087-9a66-35c6d204c66c": {
