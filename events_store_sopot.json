@@ -298,20 +298,5 @@
       "time": "17:30:00",
       "when": "2027-02-04 17:30:00"
     }
-  },
-  "ffd741ec-74a4-47c0-bd8a-b3a63d0e492e": {
-    "first_seen": "2026-09-04",
-    "hash": "1900b3ba8e427c9c22247558e5f9ee91144b99f8c07b513afdc4159a00a612ba",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "30",
-      "date": "2026-11-20",
-      "name": "Listopadowy Challenge w \u015awiecie Kart",
-      "shop": "\u015aWIAT KART KOLEKCJONERSKICH",
-      "status": "",
-      "street_address": "POLITECHNICZNA 7/17, 80-288 GDA\u0143SK, POLAND",
-      "time": "17:00:00",
-      "when": "2026-11-20 17:00:00"
-    }
   }
 }
