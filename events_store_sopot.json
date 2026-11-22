@@ -149,21 +149,6 @@
       "when": "2026-12-19 12:00:00"
     }
   },
-  "82684638-c81d-46cb-8118-67a6a3ea9087": {
-    "first_seen": "2026-09-04",
-    "hash": "c25b06568140577847aa7562686802ef5d9cf8cb79d8a6993ac6c9888a5b02df",
-    "last_updated": "2026-11-20",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-11-21",
-      "name": "Hej MIstrzu! TCG League Cup Round 1",
-      "shop": "HEJ MISTRZU",
-      "status": "",
-      "street_address": "JANA III SOBIESKIEGO 93, 84-230 RUMIA, POLAND",
-      "time": "09:00:00",
-      "when": "2026-11-21 09:00:00"
-    }
-  },
   "a2976c5e-870a-4797-83b4-6f197cf3cd4b": {
     "first_seen": "2026-09-04",
     "hash": "d9858f7c00d10429d6312fc500a4b543136d46a577b70e2b9733ce084379a2a6",
