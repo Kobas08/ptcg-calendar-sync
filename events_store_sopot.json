@@ -44,6 +44,21 @@
       "when": "2026-12-12 10:00:00"
     }
   },
+  "33d625fc-79a6-402c-925c-bd9275e5d68c": {
+    "first_seen": "2026-11-23",
+    "hash": "adef083f086c002e373346edbf081b26764b4a1fe62790fa414abae647eb0de2",
+    "last_updated": "2026-11-23",
+    "snapshot": {
+      "cost": "10",
+      "date": "2026-12-17",
+      "name": "Pokemon Challange w Maginarium!",
+      "shop": "MAGINARIUM",
+      "status": "",
+      "street_address": "ABRAHAMA 50, 81-395 GDYNIA, POLAND",
+      "time": "17:30:00",
+      "when": "2026-12-17 17:30:00"
+    }
+  },
   "4103b0ee-b861-44d2-bf1e-67d1f3126c29": {
     "first_seen": "2026-10-27",
     "hash": "3b9a433cc5e366d4803d5bf86cc57acc10b4ed36400f0e1d907ceaa4f6d72f6d",
@@ -147,21 +162,6 @@
       "street_address": "JAGIELLO\u0143SKA 13/LOK. U6, 80-371 GDA\u0143SK, POLAND",
       "time": "12:00:00",
       "when": "2026-12-19 12:00:00"
-    }
-  },
-  "a2976c5e-870a-4797-83b4-6f197cf3cd4b": {
-    "first_seen": "2026-09-04",
-    "hash": "d9858f7c00d10429d6312fc500a4b543136d46a577b70e2b9733ce084379a2a6",
-    "last_updated": "2026-09-04",
-    "snapshot": {
-      "cost": "",
-      "date": "2026-11-22",
-      "name": "Kwartalny Cup Listopad",
-      "shop": "MANGI U SMOCZEJ CIOTKI",
-      "status": "",
-      "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
-      "time": "12:00:00",
-      "when": "2026-11-22 12:00:00"
     }
   },
   "b86f67e7-88b8-4baf-b7c1-043e944a0e46": {
