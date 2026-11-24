@@ -164,6 +164,36 @@
       "when": "2026-12-19 12:00:00"
     }
   },
+  "7dcd2aea-d307-45e6-b4dc-6f906d5046c4": {
+    "first_seen": "2026-11-24",
+    "hash": "d91f089b1094b3432f102509ec2acdf6b71f1807a0232cefb9f0da60a0516703",
+    "last_updated": "2026-11-24",
+    "snapshot": {
+      "cost": "40",
+      "date": "2027-01-20",
+      "name": "League Challenge w Boosterland 2Q1",
+      "shop": "BOOSTERLAND",
+      "status": "",
+      "street_address": "GDY\u0143SKA 1A/POK\u00d3J 3, 83-330 \u017bUKOWO, POLAND",
+      "time": "18:00:00",
+      "when": "2027-01-20 18:00:00"
+    }
+  },
+  "8704a560-a5f7-40bf-adc9-81100ca7eb67": {
+    "first_seen": "2026-11-24",
+    "hash": "251435861b6e1826633af27e5439945950750af5a08c961d7764a96e872c0a7d",
+    "last_updated": "2026-11-24",
+    "snapshot": {
+      "cost": "40",
+      "date": "2027-02-17",
+      "name": "League Challenge w Boosterland 3Q1",
+      "shop": "BOOSTERLAND",
+      "status": "",
+      "street_address": "GDY\u0143SKA 1A/POK\u00d3J 3, 83-330 \u017bUKOWO, POLAND",
+      "time": "18:00:00",
+      "when": "2027-02-17 18:00:00"
+    }
+  },
   "b86f67e7-88b8-4baf-b7c1-043e944a0e46": {
     "first_seen": "2026-11-17",
     "hash": "13c37636de4ad3b736b137b47e035178cdc99bafcf1fb5a6745347777b1da614",
@@ -194,6 +224,21 @@
       "when": "2026-12-20 12:00:00"
     }
   },
+  "c373fcc3-62f6-4d60-9b31-2b7a4f91e61e": {
+    "first_seen": "2026-11-24",
+    "hash": "98c1acd38e609ca113d0fc1b102d61b89a7c4106156edaaa1eb4f0043e3cfc8a",
+    "last_updated": "2026-11-24",
+    "snapshot": {
+      "cost": "40",
+      "date": "2026-12-16",
+      "name": "League Challenge w Boosterland 1Q1",
+      "shop": "BOOSTERLAND",
+      "status": "",
+      "street_address": "GDY\u0143SKA 1A/POK\u00d3J 3, 83-330 \u017bUKOWO, POLAND",
+      "time": "18:00:00",
+      "when": "2026-12-16 18:00:00"
+    }
+  },
   "c6c32392-d389-4a46-a9e2-6c1a9fe2dc9f": {
     "first_seen": "2026-11-17",
     "hash": "c66a60aaf9f9370dc9f262aa81d291451c9b546f39f08193cf771dd47115ff2c",
@@ -207,6 +252,21 @@
       "street_address": "\u015aWI\u0118TOJA\u0143SKA 75/LOK.2, 81-389 GDYNIA, POLAND",
       "time": "12:00:00",
       "when": "2027-01-17 12:00:00"
+    }
+  },
+  "d53bba91-d657-403e-99cc-7b3150898d45": {
+    "first_seen": "2026-11-24",
+    "hash": "9590cfe55d97fa0f3cf24e67c429a936f2d56480834bb653b50639e29f8ed356",
+    "last_updated": "2026-11-24",
+    "snapshot": {
+      "cost": "30",
+      "date": "2026-12-11",
+      "name": "League Challenge - Cardzhouse",
+      "shop": "CARDZHOUSE",
+      "status": "",
+      "street_address": "10 LUTEGO 30, 81-364 GDYNIA, POLAND",
+      "time": "18:00:00",
+      "when": "2026-12-11 18:00:00"
     }
   },
   "e7b700bf-d5b5-4e5a-969a-4c862a7f8079": {
