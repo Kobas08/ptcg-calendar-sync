@@ -286,17 +286,17 @@
   },
   "e900ee91-7d3c-47f3-bb5a-194f870da5ca": {
     "first_seen": "2026-11-17",
-    "hash": "10b1644d4b081a43cc997a14bf097a0d54ccb50e73f009cc61ff138237bf3bc5",
-    "last_updated": "2026-11-17",
+    "hash": "b6eea622964bb805a664ef306e12cc3293797470f2d2ac9c1eec2b7757c86f41",
+    "last_updated": "2026-11-27",
     "snapshot": {
       "cost": "",
-      "date": "2027-01-23",
+      "date": "2027-01-16",
       "name": "Pierwszy CUP w pika space",
       "shop": "PIKA SPACE",
       "status": "",
       "street_address": "KOLEJOWA 2/6, 80-297 BANINO, POLAND",
       "time": "10:00:00",
-      "when": "2027-01-23 10:00:00"
+      "when": "2027-01-16 10:00:00"
     }
   },
   "ef0238c1-fe44-4b4a-b311-c01cdf4e5f8e": {
